@@ -60,6 +60,8 @@
 
 \* The Close Button in Sample Worlds is now positioned correctly
 
+\- Removed Texture Packs
+
 # 1.7 - The Helpful Update
 
 \+ Added new helpful tools such as Pop-Up notifications to instruct new players!
