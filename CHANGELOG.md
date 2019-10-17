@@ -159,3 +159,32 @@ Bugs Fixed:
 \* Optimized Menu
 
 \* Sample Worlds
+
+# Beta 0.1.3
+
+\+ Added Sand
+
+\+ Added Wood
+
+# Beta 0.1.2
+
+\+ Added saving and importing worlds
+
+# Beta 0.1.1
+
+\+ Added Dirt tile
+
+
+# Beta 0.1.0
+
+\* Attempt to fix tiles being placed over each other (Wouldn't be properly fixed until 1.4)
+
+# Beta 0.0.0
+
+\+ Development started
+
+\+ Breaking and placing tiles
+
+\+ Grass Tile
+
+\+ Stone Tile
