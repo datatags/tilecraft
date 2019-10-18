@@ -3,7 +3,8 @@ A Scratch 3.0 sandbox game where you can make a world with the many tiles availa
 
 See the TileCraft studio at https://scratch.mit.edu/studios/3650425/
 
-The current version is TileCraft 1.10, the Creepy.  It adds the creepy tiles made by TheRealScratchBot and other small tweaks.
+The current stable version is TileCraft 1.10, the Creepy Update.  It adds the creepy tiles made by TheRealScratchBot and other small tweaks.  The current version in the master branch is TileCraft 2.0, currently still in development.
 See CHANGELOG for more details.
 
-(Hint: to compile, use [Scratch With Git](https://github.com/datatags/scratch-with-git))
+# Compiling
+Want to compile these into an actual project file? Visit the wiki page [How to Compile](https://github.com/datatags/tilecraft/wiki/How-to-Compile)
