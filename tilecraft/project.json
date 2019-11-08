@@ -1832,96 +1832,7 @@
             ],
             "3J=[3z[FDzeUtH3dHLci" : [
                "save data Type",
-               [
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1
-               ]
+               []
             ],
             ";``tEJ4!f~[yuetLxrs+" : [
                "entity data Type",
@@ -1945,96 +1856,7 @@
             ],
             "?B,2pg@/#e`sJ!n!H59q-save data-list" : [
                "save data X",
-               [
-                  "0",
-                  1,
-                  2,
-                  3,
-                  4,
-                  5,
-                  6,
-                  7,
-                  "0",
-                  1,
-                  2,
-                  3,
-                  4,
-                  5,
-                  6,
-                  7,
-                  "0",
-                  1,
-                  2,
-                  3,
-                  4,
-                  5,
-                  6,
-                  7,
-                  "0",
-                  1,
-                  2,
-                  3,
-                  4,
-                  5,
-                  6,
-                  7,
-                  "0",
-                  1,
-                  2,
-                  3,
-                  4,
-                  5,
-                  6,
-                  7,
-                  "0",
-                  1,
-                  2,
-                  3,
-                  4,
-                  5,
-                  6,
-                  7,
-                  "0",
-                  1,
-                  2,
-                  3,
-                  4,
-                  5,
-                  6,
-                  7,
-                  "0",
-                  1,
-                  2,
-                  3,
-                  4,
-                  5,
-                  6,
-                  7,
-                  "0",
-                  1,
-                  2,
-                  3,
-                  4,
-                  5,
-                  6,
-                  7,
-                  "0",
-                  1,
-                  2,
-                  3,
-                  4,
-                  5,
-                  6,
-                  7,
-                  "0",
-                  1,
-                  2,
-                  3,
-                  4,
-                  5,
-                  6,
-                  7
-               ]
+               []
             ],
             "?B,2pg@/#e`sJ!n!H59q-texturePackIds-list" : [
                "texturePackIds",
@@ -2069,8 +1891,8 @@
             "?B,2pg@/#e`sJ!n!H59q-tile keys-list" : [
                "tile keys",
                [
-                  1,
-                  2,
+                  83,
+                  84,
                   3,
                   4,
                   5,
@@ -2192,96 +2014,7 @@
             ],
             "Eu!Tgk)#fa79$5=?*RzO" : [
                "save data Y",
-               [
-                  "0",
-                  "0",
-                  "0",
-                  "0",
-                  "0",
-                  "0",
-                  "0",
-                  "0",
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  1,
-                  2,
-                  2,
-                  2,
-                  2,
-                  2,
-                  2,
-                  2,
-                  2,
-                  3,
-                  3,
-                  3,
-                  3,
-                  3,
-                  3,
-                  3,
-                  3,
-                  4,
-                  4,
-                  4,
-                  4,
-                  4,
-                  4,
-                  4,
-                  4,
-                  5,
-                  5,
-                  5,
-                  5,
-                  5,
-                  5,
-                  5,
-                  5,
-                  6,
-                  6,
-                  6,
-                  6,
-                  6,
-                  6,
-                  6,
-                  6,
-                  7,
-                  7,
-                  7,
-                  7,
-                  7,
-                  7,
-                  7,
-                  7,
-                  8,
-                  8,
-                  8,
-                  8,
-                  8,
-                  8,
-                  8,
-                  8,
-                  9,
-                  9,
-                  9,
-                  9,
-                  9,
-                  9,
-                  9,
-                  9,
-                  "a",
-                  "a",
-                  "a",
-                  "a",
-                  "a",
-                  "a",
-                  "a",
-                  "a"
-               ]
+               []
             ],
             "hr7J1@5uL`SGQfQkwU9]" : [
                "sound map",
@@ -2375,7 +2108,7 @@
          "variables" : {
             "/2TD5]t4iw99N}h{F/is" : [
                "nextEntityId",
-               16
+               10
             ],
             "4X73=yvXkdvCK}Y#2TX_-texturePack-" : [
                "texturePack",
@@ -2399,7 +2132,7 @@
             ],
             "?B,2pg@/#e`sJ!n!H59q-counter-" : [
                "counter",
-               "0"
+               85
             ],
             "?B,2pg@/#e`sJ!n!H59q-currentAssembleVariable-" : [
                "currentAssembleVariable",
@@ -2439,19 +2172,19 @@
             ],
             "?B,2pg@/#e`sJ!n!H59q-nextSlotID-" : [
                "nextSlotID",
-               "1"
+               11
             ],
             "?B,2pg@/#e`sJ!n!H59q-paletteGenerated-" : [
                "paletteGenerated",
-               "0"
+               "1"
             ],
             "?B,2pg@/#e`sJ!n!H59q-returnValue-" : [
                "returnValue",
-               6
+               "-1"
             ],
             "?B,2pg@/#e`sJ!n!H59q-saveCounter-" : [
                "saveCounter",
-               396
+               "0"
             ],
             "?B,2pg@/#e`sJ!n!H59q-showPopups-" : [
                "showPopups",
@@ -2459,15 +2192,15 @@
             ],
             "?B,2pg@/#e`sJ!n!H59q-tileType-" : [
                "sendType",
-               "1"
+               83
             ],
             "?B,2pg@/#e`sJ!n!H59q-tileX-" : [
                "sendX",
-               ""
+               10
             ],
             "?B,2pg@/#e`sJ!n!H59q-tileY-" : [
                "sendY",
-               ""
+               3
             ],
             "?B,2pg@/#e`sJ!n!H59q-version#-" : [
                "version#",
@@ -2479,7 +2212,7 @@
             ],
             "O0awO@jsl;q^(?$d2Ln;" : [
                "pos check X",
-               9
+               2
             ],
             "R*zkE4v;sECGzikbuXe%" : [
                "posCheckInUse",
@@ -4941,7 +4674,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 28,
+         "layerOrder" : 23,
          "lists" : {},
          "name" : "PurpleSoftwareLogoNEW",
          "rotationStyle" : "all around",
@@ -12438,11 +12171,11 @@
                "rotationCenterY" : 23
             }
          ],
-         "currentCostume" : 7,
+         "currentCostume" : 0,
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 35,
+         "layerOrder" : 24,
          "lists" : {},
          "name" : "load",
          "rotationStyle" : "all around",
@@ -13218,7 +12951,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 29,
+         "layerOrder" : 30,
          "lists" : {},
          "name" : "create world",
          "rotationStyle" : "all around",
@@ -14020,7 +13753,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 27,
+         "layerOrder" : 32,
          "lists" : {},
          "name" : "ButtonWorldBG",
          "rotationStyle" : "all around",
@@ -14543,7 +14276,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 26,
+         "layerOrder" : 33,
          "lists" : {},
          "name" : "confirm_create",
          "rotationStyle" : "all around",
@@ -15008,7 +14741,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 31,
+         "layerOrder" : 28,
          "lists" : {},
          "name" : "sample",
          "rotationStyle" : "all around",
@@ -15984,7 +15717,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 30,
+         "layerOrder" : 29,
          "lists" : {},
          "name" : "secret_settings",
          "rotationStyle" : "all around",
@@ -16646,6 +16379,35 @@
                "next" : null,
                "opcode" : "operator_join",
                "parent" : "RCH$x~fa}FepmAO#s-JY",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            "*`Bd=l}WTXpuro{2OG+$" : {
+               "fields" : {},
+               "inputs" : {
+                  "OPERAND1" : [
+                     3,
+                     [
+                        12,
+                        "nextEntityId",
+                        "/2TD5]t4iw99N}h{F/is"
+                     ],
+                     [
+                        10,
+                        ""
+                     ]
+                  ],
+                  "OPERAND2" : [
+                     1,
+                     [
+                        10,
+                        "2"
+                     ]
+                  ]
+               },
+               "next" : null,
+               "opcode" : "operator_lt",
+               "parent" : "oi#W?p!xf}di+UtmcksT",
                "shadow" : false,
                "topLevel" : false
             },
@@ -19760,7 +19522,7 @@
                },
                "next" : null,
                "opcode" : "operator_equals",
-               "parent" : "qN`n:-7?IQC*cc%IzmCx",
+               "parent" : "oi#W?p!xf}di+UtmcksT",
                "shadow" : false,
                "topLevel" : false
             },
@@ -19916,6 +19678,24 @@
                "shadow" : false,
                "topLevel" : false
             },
+            "oi#W?p!xf}di+UtmcksT" : {
+               "fields" : {},
+               "inputs" : {
+                  "OPERAND1" : [
+                     2,
+                     "k]8fi1*w4`iokKLLxHx-"
+                  ],
+                  "OPERAND2" : [
+                     2,
+                     "*`Bd=l}WTXpuro{2OG+$"
+                  ]
+               },
+               "next" : null,
+               "opcode" : "operator_and",
+               "parent" : "qN`n:-7?IQC*cc%IzmCx",
+               "shadow" : false,
+               "topLevel" : false
+            },
             "or/.MF-di_s]$p7q[=1F" : {
                "fields" : {},
                "inputs" : {},
@@ -20006,7 +19786,7 @@
                "inputs" : {
                   "CONDITION" : [
                      2,
-                     "k]8fi1*w4`iokKLLxHx-"
+                     "oi#W?p!xf}di+UtmcksT"
                   ],
                   "SUBSTACK" : [
                      2,
@@ -20841,7 +20621,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 24,
+         "layerOrder" : 21,
          "lists" : {},
          "name" : "save",
          "rotationStyle" : "all around",
@@ -32839,11 +32619,11 @@
                "rotationCenterY" : 8
             }
          ],
-         "currentCostume" : 0,
+         "currentCostume" : 82,
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 23,
+         "layerOrder" : 36,
          "lists" : {},
          "name" : "Tiles",
          "rotationStyle" : "all around",
@@ -33021,7 +32801,7 @@
             ],
             "vx$`LKl1q%T^GKVi]zNu" : [
                "returnX",
-               11
+               10
             ],
             "zAT:+9FzAf)EGa,fq!8E" : [
                "returnHex",
@@ -33037,12 +32817,12 @@
             ],
             "}tkLXg#7?waSDn_FR6-q" : [
                "returnY",
-               6
+               3
             ]
          },
          "visible" : false,
          "volume" : 100,
-         "x" : -224,
+         "x" : -160,
          "y" : 157
       },
       {
@@ -33843,7 +33623,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 34,
+         "layerOrder" : 25,
          "lists" : {},
          "name" : "interface_texture",
          "rotationStyle" : "all around",
@@ -36403,7 +36183,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 36,
+         "layerOrder" : 31,
          "lists" : {},
          "name" : "PopUp Help",
          "rotationStyle" : "all around",
@@ -36767,7 +36547,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 32,
+         "layerOrder" : 27,
          "lists" : {},
          "name" : "TilecraftStudio",
          "rotationStyle" : "all around",
@@ -37373,7 +37153,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 33,
+         "layerOrder" : 26,
          "lists" : {},
          "name" : "touch_mode",
          "rotationStyle" : "all around",
@@ -39387,7 +39167,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 22,
+         "layerOrder" : 34,
          "lists" : {},
          "name" : "Palette",
          "rotationStyle" : "all around",
@@ -39882,7 +39662,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 21,
+         "layerOrder" : 35,
          "lists" : {},
          "name" : "HotbarBG",
          "rotationStyle" : "all around",
@@ -43268,7 +43048,7 @@
                      ]
                   ]
                },
-               "next" : "a#kMDJF{*W0;E-zoA@2y",
+               "next" : "ciw~=yd*+`NQ~@OnD1Y4",
                "opcode" : "data_setvariableto",
                "parent" : "l5aWVuI)^FEI|ePZ+h@y",
                "shadow" : false,
@@ -43497,6 +43277,23 @@
                "next" : null,
                "opcode" : "operator_equals",
                "parent" : "_3@I7!f2$4A@p-)o~eKl",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            ",m%)7tXMw34Ql$U?Wds9" : {
+               "fields" : {},
+               "inputs" : {
+                  "DIRECTION" : [
+                     1,
+                     [
+                        8,
+                        "90"
+                     ]
+                  ]
+               },
+               "next" : null,
+               "opcode" : "motion_pointindirection",
+               "parent" : "ciw~=yd*+`NQ~@OnD1Y4",
                "shadow" : false,
                "topLevel" : false
             },
@@ -44588,6 +44385,23 @@
                "shadow" : false,
                "topLevel" : false
             },
+            "?Qyb))8X?+*(0,1e2!UH" : {
+               "fields" : {},
+               "inputs" : {
+                  "DIRECTION" : [
+                     1,
+                     [
+                        8,
+                        "-90"
+                     ]
+                  ]
+               },
+               "next" : null,
+               "opcode" : "motion_pointindirection",
+               "parent" : "RF1%xsV;/=!.?];F1BE!",
+               "shadow" : false,
+               "topLevel" : false
+            },
             "@(CsDs;zlr3Lf1ukF^1F" : {
                "fields" : {
                   "STOP_OPTION" : [
@@ -45315,8 +45129,8 @@
                "parent" : null,
                "shadow" : false,
                "topLevel" : true,
-               "x" : 1893,
-               "y" : -284
+               "x" : 1974,
+               "y" : -245
             },
             "Osh3NW|hxy;qIYu]3L%1" : {
                "fields" : {
@@ -45463,6 +45277,24 @@
                "next" : null,
                "opcode" : "data_setvariableto",
                "parent" : "m2Ml+YoTY}3ucU^+iNba",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            "RF1%xsV;/=!.?];F1BE!" : {
+               "fields" : {},
+               "inputs" : {
+                  "CONDITION" : [
+                     2,
+                     "o`aYpg0YTh/zi_P)Hkm!"
+                  ],
+                  "SUBSTACK" : [
+                     2,
+                     "?Qyb))8X?+*(0,1e2!UH"
+                  ]
+               },
+               "next" : "a#kMDJF{*W0;E-zoA@2y",
+               "opcode" : "control_if",
+               "parent" : "ciw~=yd*+`NQ~@OnD1Y4",
                "shadow" : false,
                "topLevel" : false
             },
@@ -46012,6 +45844,37 @@
                "shadow" : false,
                "topLevel" : false
             },
+            "[g2iS-hyxP92Syb?Wwv|" : {
+               "comment" : "nuNHfUm:$r{NWh?+c9jn",
+               "fields" : {},
+               "inputs" : {
+                  "OPERAND1" : [
+                     3,
+                     "mgpm^@]BPs%P%IZE6d}D",
+                     [
+                        10,
+                        ""
+                     ]
+                  ],
+                  "OPERAND2" : [
+                     3,
+                     [
+                        12,
+                        "X",
+                        "(qNP|xmM;dT/CmZGc?8Y"
+                     ],
+                     [
+                        10,
+                        "50"
+                     ]
+                  ]
+               },
+               "next" : null,
+               "opcode" : "operator_gt",
+               "parent" : "ciw~=yd*+`NQ~@OnD1Y4",
+               "shadow" : false,
+               "topLevel" : false
+            },
             "]twf.;vv0Y2X4r[)$vcX" : {
                "fields" : {},
                "inputs" : {
@@ -46079,6 +45942,20 @@
                "opcode" : "procedures_prototype",
                "parent" : "s4)$NT21$$,SRfJ,=U=c",
                "shadow" : true,
+               "topLevel" : false
+            },
+            "^aLpA=AR.F_{R0oW]bqG" : {
+               "fields" : {
+                  "VALUE" : [
+                     "x",
+                     null
+                  ]
+               },
+               "inputs" : {},
+               "next" : null,
+               "opcode" : "argument_reporter_string_number",
+               "parent" : "o`aYpg0YTh/zi_P)Hkm!",
+               "shadow" : false,
                "topLevel" : false
             },
             "_3@I7!f2$4A@p-)o~eKl" : {
@@ -46175,7 +46052,7 @@
                      "pKsro9fjNUSTQ}9~+gp-"
                   ]
                },
-               "next" : "axFrDkVYQGr`6Et1L%ML",
+               "next" : "~hJv)AL[z]2x+;#T]V!/",
                "opcode" : "sound_play",
                "parent" : "j]@VWb0kbeJQ2nWF|[WD",
                "shadow" : false,
@@ -46277,7 +46154,7 @@
                },
                "next" : "Osh3NW|hxy;qIYu]3L%1",
                "opcode" : "data_setvariableto",
-               "parent" : ")e|TST.J4*P@khk#6zaS",
+               "parent" : "RF1%xsV;/=!.?];F1BE!",
                "shadow" : false,
                "topLevel" : false
             },
@@ -46341,7 +46218,7 @@
                },
                "next" : "2cXLzYr5t7gp9pfNGyQD",
                "opcode" : "data_setvariableto",
-               "parent" : "_`+_c8!|m,DT~3^[?XjK",
+               "parent" : "~hJv)AL[z]2x+;#T]V!/",
                "shadow" : false,
                "topLevel" : false
             },
@@ -46468,7 +46345,7 @@
             "bZjy7(F;kml46fDTMGl:" : {
                "fields" : {},
                "inputs" : {},
-               "next" : "r_6AH$F2X?:kB7Lo1}tQ",
+               "next" : "yF+0me;EWFS17b=)$n%R",
                "opcode" : "looks_hide",
                "parent" : "M+DGw$Y(7nC[Dp=?|!D9",
                "shadow" : false,
@@ -46511,6 +46388,24 @@
                "opcode" : "argument_reporter_string_number",
                "parent" : ",s(X91TFD`)JekvQSWlQ",
                "shadow" : true,
+               "topLevel" : false
+            },
+            "ciw~=yd*+`NQ~@OnD1Y4" : {
+               "fields" : {},
+               "inputs" : {
+                  "CONDITION" : [
+                     2,
+                     "[g2iS-hyxP92Syb?Wwv|"
+                  ],
+                  "SUBSTACK" : [
+                     2,
+                     ",m%)7tXMw34Ql$U?Wds9"
+                  ]
+               },
+               "next" : "RF1%xsV;/=!.?];F1BE!",
+               "opcode" : "control_if",
+               "parent" : ")e|TST.J4*P@khk#6zaS",
+               "shadow" : false,
                "topLevel" : false
             },
             "c|cWgfJ3O-k;QF(Ec2Zs" : {
@@ -47240,6 +47135,20 @@
                "shadow" : false,
                "topLevel" : false
             },
+            "mgpm^@]BPs%P%IZE6d}D" : {
+               "fields" : {
+                  "VALUE" : [
+                     "x",
+                     null
+                  ]
+               },
+               "inputs" : {},
+               "next" : null,
+               "opcode" : "argument_reporter_string_number",
+               "parent" : "[g2iS-hyxP92Syb?Wwv|",
+               "shadow" : false,
+               "topLevel" : false
+            },
             "oK(2K:Z{nv-XS4*PGAIz" : {
                "fields" : {},
                "inputs" : {
@@ -47284,6 +47193,36 @@
                "next" : "TvAtM#()jTedyRGN,8MG",
                "opcode" : "data_setvariableto",
                "parent" : "j3Ze+RhMNikKuPET1DEg",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            "o`aYpg0YTh/zi_P)Hkm!" : {
+               "fields" : {},
+               "inputs" : {
+                  "OPERAND1" : [
+                     3,
+                     "^aLpA=AR.F_{R0oW]bqG",
+                     [
+                        10,
+                        ""
+                     ]
+                  ],
+                  "OPERAND2" : [
+                     3,
+                     [
+                        12,
+                        "X",
+                        "(qNP|xmM;dT/CmZGc?8Y"
+                     ],
+                     [
+                        10,
+                        "50"
+                     ]
+                  ]
+               },
+               "next" : null,
+               "opcode" : "operator_lt",
+               "parent" : "RF1%xsV;/=!.?];F1BE!",
                "shadow" : false,
                "topLevel" : false
             },
@@ -47387,7 +47326,7 @@
                },
                "next" : "{~/)*?$`l_DdPg@IaJ)*",
                "opcode" : "looks_setsizeto",
-               "parent" : "bZjy7(F;kml46fDTMGl:",
+               "parent" : "yF+0me;EWFS17b=)$n%R",
                "shadow" : false,
                "topLevel" : false
             },
@@ -47780,6 +47719,20 @@
                "shadow" : true,
                "topLevel" : false
             },
+            "yF+0me;EWFS17b=)$n%R" : {
+               "fields" : {
+                  "STYLE" : [
+                     "left-right",
+                     null
+                  ]
+               },
+               "inputs" : {},
+               "next" : "r_6AH$F2X?:kB7Lo1}tQ",
+               "opcode" : "motion_setrotationstyle",
+               "parent" : "bZjy7(F;kml46fDTMGl:",
+               "shadow" : false,
+               "topLevel" : false
+            },
             "yZ7zW]9je7c#-4zVMaZ+" : {
                "fields" : {},
                "inputs" : {
@@ -48147,6 +48100,28 @@
                "parent" : "+7$HE]G1,0+|=v7=7xMa",
                "shadow" : false,
                "topLevel" : false
+            },
+            "~hJv)AL[z]2x+;#T]V!/" : {
+               "fields" : {
+                  "VARIABLE" : [
+                     "nextEntityId",
+                     "/2TD5]t4iw99N}h{F/is"
+                  ]
+               },
+               "inputs" : {
+                  "VALUE" : [
+                     1,
+                     [
+                        4,
+                        "-1"
+                     ]
+                  ]
+               },
+               "next" : "axFrDkVYQGr`6Et1L%ML",
+               "opcode" : "data_changevariableby",
+               "parent" : "_`+_c8!|m,DT~3^[?XjK",
+               "shadow" : false,
+               "topLevel" : false
             }
          },
          "broadcasts" : {},
@@ -48177,6 +48152,15 @@
                "width" : 216.296325683594,
                "x" : 2334.62139044868,
                "y" : -635.814814814815
+            },
+            "nuNHfUm:$r{NWh?+c9jn" : {
+               "blockId" : "[g2iS-hyxP92Syb?Wwv|",
+               "height" : 200,
+               "minimized" : false,
+               "text" : "If new X is greater than old X",
+               "width" : 200,
+               "x" : 2652.56597222222,
+               "y" : -790.370370370369
             },
             "q;2,mZ;HMW%(xN;LKGnB" : {
                "blockId" : "`.Rm/WGX6BuW17x71Gr(",
@@ -48254,13 +48238,13 @@
             }
          ],
          "currentCostume" : 6,
-         "direction" : 90,
+         "direction" : -90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 25,
+         "layerOrder" : 22,
          "lists" : {},
          "name" : "Entities",
-         "rotationStyle" : "all around",
+         "rotationStyle" : "left-right",
          "size" : 220,
          "sounds" : [
             {
