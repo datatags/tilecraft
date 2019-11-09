@@ -2090,9 +2090,18 @@
                "name" : "medieval",
                "rotationCenterX" : 480,
                "rotationCenterY" : 360
+            },
+            {
+               "assetId" : "56d0422b7db77b1315e385a8892c27f4",
+               "bitmapResolution" : 2,
+               "dataFormat" : "png",
+               "md5ext" : "56d0422b7db77b1315e385a8892c27f4.png",
+               "name" : "space",
+               "rotationCenterX" : 480,
+               "rotationCenterY" : 360
             }
          ],
-         "currentCostume" : 0,
+         "currentCostume" : 6,
          "isStage" : true,
          "layerOrder" : 0,
          "lists" : {
@@ -2169,8 +2178,8 @@
             "?B,2pg@/#e`sJ!n!H59q-tile keys-list" : [
                "tile keys",
                [
-                  84,
-                  85,
+                  1,
+                  2,
                   3,
                   4,
                   5,
@@ -2414,7 +2423,7 @@
             ],
             "/2TD5]t4iw99N}h{F/is" : [
                "nextEntityId",
-               21
+               "1"
             ],
             "4+~gwU3.!fWa6j%2[JIY" : [
                "updating hotbar tile",
@@ -2442,7 +2451,7 @@
             ],
             "?B,2pg@/#e`sJ!n!H59q-counter-" : [
                "counter",
-               86
+               "0"
             ],
             "?B,2pg@/#e`sJ!n!H59q-currentAssembleVariable-" : [
                "currentAssembleVariable",
@@ -2482,11 +2491,11 @@
             ],
             "?B,2pg@/#e`sJ!n!H59q-nextSlotID-" : [
                "nextSlotID",
-               11
+               "1"
             ],
             "?B,2pg@/#e`sJ!n!H59q-paletteGenerated-" : [
                "paletteGenerated",
-               "1"
+               "0"
             ],
             "?B,2pg@/#e`sJ!n!H59q-returnValue-" : [
                "returnValue",
@@ -2760,7 +2769,7 @@
                      "p0`%A?L^e]|LZirIIm}%"
                   ]
                },
-               "next" : null,
+               "next" : "=h4OiG!KvK$2:|j?le$J",
                "opcode" : "control_if",
                "parent" : "G-3}f!t=0b-YMH`WT1IU",
                "shadow" : false,
@@ -3015,6 +3024,24 @@
                "shadow" : false,
                "topLevel" : false
             },
+            "=h4OiG!KvK$2:|j?le$J" : {
+               "fields" : {},
+               "inputs" : {
+                  "CONDITION" : [
+                     2,
+                     "i$pmNgqA$G;n#m)=EaFy"
+                  ],
+                  "SUBSTACK" : [
+                     2,
+                     "FGY5Sr`E_JyroMqz3/eA"
+                  ]
+               },
+               "next" : null,
+               "opcode" : "control_if",
+               "parent" : "1quSl/Yn=m8CaCinXKb~",
+               "shadow" : false,
+               "topLevel" : false
+            },
             "=oCgO!kh3-gz$=JS%9I," : {
                "fields" : {
                   "VALUE" : [
@@ -3179,8 +3206,32 @@
                "parent" : null,
                "shadow" : false,
                "topLevel" : true,
-               "x" : 818,
-               "y" : 748
+               "x" : 798,
+               "y" : 736
+            },
+            "FGY5Sr`E_JyroMqz3/eA" : {
+               "fields" : {},
+               "inputs" : {
+                  "pHw4MhUH^GqZ3cXDQT?9" : [
+                     1,
+                     [
+                        10,
+                        "57"
+                     ]
+                  ]
+               },
+               "mutation" : {
+                  "argumentids" : "[\"pHw4MhUH^GqZ3cXDQT?9\"]",
+                  "children" : [],
+                  "proccode" : "assign tile keys sequentially %s",
+                  "tagName" : "mutation",
+                  "warp" : "false"
+               },
+               "next" : null,
+               "opcode" : "procedures_call",
+               "parent" : "=h4OiG!KvK$2:|j?le$J",
+               "shadow" : false,
+               "topLevel" : false
             },
             "G-3}f!t=0b-YMH`WT1IU" : {
                "fields" : {},
@@ -3230,6 +3281,7 @@
                "topLevel" : false
             },
             "I4Sx!R^)QQ)b2arIpFj@" : {
+               "comment" : "*FWj?$vi*/Tn$_svsDx_",
                "fields" : {},
                "inputs" : {
                   "SUBSTACK" : [
@@ -3275,7 +3327,6 @@
                "topLevel" : false
             },
             "J#l)=NO3lgKC1b2[;7c6" : {
-               "comment" : "Qt55u_L@Tuk}ZHomL%)f",
                "fields" : {},
                "inputs" : {
                   "OPERAND1" : [
@@ -4250,6 +4301,35 @@
                "shadow" : false,
                "topLevel" : false
             },
+            "i$pmNgqA$G;n#m)=EaFy" : {
+               "fields" : {},
+               "inputs" : {
+                  "OPERAND1" : [
+                     3,
+                     [
+                        12,
+                        "worldTheme",
+                        "?B,2pg@/#e`sJ!n!H59q-worldTheme-"
+                     ],
+                     [
+                        10,
+                        ""
+                     ]
+                  ],
+                  "OPERAND2" : [
+                     1,
+                     [
+                        10,
+                        "6"
+                     ]
+                  ]
+               },
+               "next" : null,
+               "opcode" : "operator_equals",
+               "parent" : "=h4OiG!KvK$2:|j?le$J",
+               "shadow" : false,
+               "topLevel" : false
+            },
             "kDIBUnTLS+jyH=.N(ff*" : {
                "fields" : {
                   "VARIABLE" : [
@@ -4631,6 +4711,15 @@
          },
          "broadcasts" : {},
          "comments" : {
+            "*FWj?$vi*/Tn$_svsDx_" : {
+               "blockId" : "I4Sx!R^)QQ)b2arIpFj@",
+               "height" : 204.444458007812,
+               "minimized" : false,
+               "text" : "An easy way of generating a list of numbers 1-10.  If this were a serious, text programming language, the +1 would not be necessary because the first element in arrays is index 0!  This means that there will never be an item with the index of the length of the list (generally.  There may be some odd situations where it could be possible but normally no.)",
+               "width" : 404.444396972656,
+               "x" : 1301.62962962963,
+               "y" : 685.037037037037
+            },
             "HsXJ/SY.~Z^7[8qmrOLU" : {
                "blockId" : "3}z#FWVo]S2~_7=vzom[",
                "height" : 327.8,
@@ -4648,15 +4737,6 @@
                "width" : 200,
                "x" : 455.432123819987,
                "y" : 691.777777777778
-            },
-            "Qt55u_L@Tuk}ZHomL%)f" : {
-               "blockId" : "J#l)=NO3lgKC1b2[;7c6",
-               "height" : 448.8,
-               "minimized" : true,
-               "text" : "An easy way of generating a list of numbers 1-10.  If this were a serious, text programming language, the +1 would not be necessary because the first element in arrays is index 0!  This means that there will never be an item with the index of the length of the list (generally.  There may be some odd situations where it could be possible but normally no.)",
-               "width" : 346.5,
-               "x" : 303.374887466431,
-               "y" : 1953
             },
             "WdqJ}zl^AIw:A3Z^`*[/" : {
                "blockId" : null,
@@ -4962,7 +5042,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 22,
+         "layerOrder" : 32,
          "lists" : {},
          "name" : "PurpleSoftwareLogoNEW",
          "rotationStyle" : "all around",
@@ -5452,7 +5532,7 @@
             }
          ],
          "variables" : {},
-         "visible" : false,
+         "visible" : true,
          "volume" : 100,
          "x" : 0,
          "y" : 0
@@ -12533,7 +12613,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 29,
+         "layerOrder" : 33,
          "lists" : {},
          "name" : "load",
          "rotationStyle" : "all around",
@@ -12600,7 +12680,7 @@
                0
             ]
          },
-         "visible" : false,
+         "visible" : true,
          "volume" : 100,
          "x" : 0,
          "y" : -77
@@ -13309,7 +13389,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 23,
+         "layerOrder" : 39,
          "lists" : {},
          "name" : "create world",
          "rotationStyle" : "all around",
@@ -13335,7 +13415,7 @@
             }
          ],
          "variables" : {},
-         "visible" : false,
+         "visible" : true,
          "volume" : 100,
          "x" : 0,
          "y" : -45
@@ -14111,7 +14191,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 31,
+         "layerOrder" : 23,
          "lists" : {},
          "name" : "ButtonWorldBG",
          "rotationStyle" : "all around",
@@ -14634,7 +14714,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 32,
+         "layerOrder" : 24,
          "lists" : {},
          "name" : "confirm_create",
          "rotationStyle" : "all around",
@@ -15099,7 +15179,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 25,
+         "layerOrder" : 37,
          "lists" : {},
          "name" : "sample",
          "rotationStyle" : "all around",
@@ -15125,7 +15205,7 @@
             }
          ],
          "variables" : {},
-         "visible" : false,
+         "visible" : true,
          "volume" : 100,
          "x" : 0,
          "y" : -109
@@ -16075,7 +16155,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 24,
+         "layerOrder" : 38,
          "lists" : {},
          "name" : "secret_settings",
          "rotationStyle" : "all around",
@@ -16101,7 +16181,7 @@
             }
          ],
          "variables" : {},
-         "visible" : false,
+         "visible" : true,
          "volume" : 100,
          "x" : 0,
          "y" : -141
@@ -34127,7 +34207,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 35,
+         "layerOrder" : 27,
          "lists" : {},
          "name" : "Tiles",
          "rotationStyle" : "all around",
@@ -35131,7 +35211,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 28,
+         "layerOrder" : 34,
          "lists" : {},
          "name" : "interface_texture",
          "rotationStyle" : "all around",
@@ -35157,7 +35237,7 @@
             }
          ],
          "variables" : {},
-         "visible" : false,
+         "visible" : true,
          "volume" : 100,
          "x" : 0,
          "y" : -13
@@ -37219,7 +37299,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 36,
+         "layerOrder" : 28,
          "lists" : {},
          "name" : "PopUp Instructions",
          "rotationStyle" : "all around",
@@ -37691,7 +37771,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 30,
+         "layerOrder" : 22,
          "lists" : {},
          "name" : "PopUp Help",
          "rotationStyle" : "all around",
@@ -38055,7 +38135,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 26,
+         "layerOrder" : 36,
          "lists" : {},
          "name" : "TilecraftStudio",
          "rotationStyle" : "all around",
@@ -38081,7 +38161,7 @@
             }
          ],
          "variables" : {},
-         "visible" : false,
+         "visible" : true,
          "volume" : 100,
          "x" : 219,
          "y" : -154
@@ -38742,7 +38822,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 27,
+         "layerOrder" : 35,
          "lists" : {},
          "name" : "touch_mode",
          "rotationStyle" : "all around",
@@ -38768,7 +38848,7 @@
             }
          ],
          "variables" : {},
-         "visible" : false,
+         "visible" : true,
          "volume" : 100,
          "x" : 219,
          "y" : -122
@@ -40861,7 +40941,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 34,
+         "layerOrder" : 26,
          "lists" : {},
          "name" : "Palette",
          "rotationStyle" : "all around",
@@ -41406,7 +41486,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 33,
+         "layerOrder" : 25,
          "lists" : {},
          "name" : "HotbarBG",
          "rotationStyle" : "all around",
@@ -42385,7 +42465,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 38,
+         "layerOrder" : 30,
          "lists" : {},
          "name" : "PauseMenu",
          "rotationStyle" : "all around",
@@ -53616,7 +53696,7 @@
          "direction" : 90,
          "draggable" : true,
          "isStage" : false,
-         "layerOrder" : 37,
+         "layerOrder" : 29,
          "lists" : {},
          "name" : "touch menu",
          "rotationStyle" : "all around",
@@ -53633,7 +53713,7 @@
             }
          ],
          "variables" : {},
-         "visible" : true,
+         "visible" : false,
          "volume" : 100,
          "x" : 213,
          "y" : -165
@@ -54673,7 +54753,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 39,
+         "layerOrder" : 31,
          "lists" : {},
          "name" : "delete mode",
          "rotationStyle" : "all around",
