@@ -1733,6 +1733,172 @@
          "width" : 0,
          "x" : 5,
          "y" : 5
+      },
+      {
+         "height" : 0,
+         "id" : "d^n0aC~TPeFWi*tNU4em",
+         "mode" : "list",
+         "opcode" : "data_listcontents",
+         "params" : {
+            "LIST" : "flammable tiles"
+         },
+         "spriteName" : null,
+         "value" : [
+            "1",
+            "5",
+            "10",
+            "14",
+            "24",
+            "28",
+            "34",
+            "43",
+            "44",
+            "48",
+            "53",
+            "55",
+            "56",
+            "57",
+            "68"
+         ],
+         "visible" : false,
+         "width" : 0,
+         "x" : 5,
+         "y" : 5
+      },
+      {
+         "height" : 0,
+         "id" : "3J=[3z[FDzeUtH3dHLci",
+         "mode" : "list",
+         "opcode" : "data_listcontents",
+         "params" : {
+            "LIST" : "save data Type"
+         },
+         "spriteName" : null,
+         "value" : [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            6,
+            6,
+            6,
+            6,
+            6,
+            6,
+            6,
+            6,
+            6,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+         ],
+         "visible" : false,
+         "width" : 0,
+         "x" : 5,
+         "y" : 5
       }
    ],
    "targets" : [
@@ -1944,7 +2110,56 @@
             ],
             "3J=[3z[FDzeUtH3dHLci" : [
                "save data Type",
-               []
+               [
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  6,
+                  6,
+                  6,
+                  6,
+                  6,
+                  6,
+                  6,
+                  6,
+                  6,
+                  6,
+                  6,
+                  6,
+                  6,
+                  6,
+                  6,
+                  6,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1
+               ]
             ],
             ";``tEJ4!f~[yuetLxrs+" : [
                "entity data Type",
@@ -1968,7 +2183,56 @@
             ],
             "?B,2pg@/#e`sJ!n!H59q-save data-list" : [
                "save data X",
-               []
+               [
+                  5,
+                  5,
+                  6,
+                  7,
+                  7,
+                  7,
+                  6,
+                  5,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  5,
+                  6,
+                  8,
+                  8,
+                  7,
+                  8,
+                  8,
+                  8,
+                  7,
+                  6,
+                  5,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  8,
+                  7,
+                  6,
+                  5,
+                  4,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3
+               ]
             ],
             "?B,2pg@/#e`sJ!n!H59q-texturePackIds-list" : [
                "texturePackIds",
@@ -2004,7 +2268,7 @@
                "tile keys",
                [
                   1,
-                  2,
+                  83,
                   3,
                   4,
                   5,
@@ -2026,9 +2290,9 @@
             "Ci=M~j~SSvmkC$}nu3y[" : [
                "tile entities",
                [
-                  "0",
                   "83",
-                  "84"
+                  "84",
+                  "85"
                ]
             ],
             "DB)@+.NeDF;fNO}!N^!x" : [
@@ -2126,7 +2390,76 @@
             ],
             "Eu!Tgk)#fa79$5=?*RzO" : [
                "save data Y",
-               []
+               [
+                  6,
+                  5,
+                  5,
+                  5,
+                  6,
+                  7,
+                  7,
+                  7,
+                  8,
+                  7,
+                  6,
+                  5,
+                  4,
+                  4,
+                  4,
+                  5,
+                  4,
+                  4,
+                  6,
+                  7,
+                  8,
+                  8,
+                  8,
+                  8,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  8,
+                  7,
+                  6,
+                  5,
+                  4,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9
+               ]
+            ],
+            "d^n0aC~TPeFWi*tNU4em" : [
+               "flammable tiles",
+               [
+                  "1",
+                  "5",
+                  "10",
+                  "14",
+                  "24",
+                  "28",
+                  "34",
+                  "43",
+                  "44",
+                  "48",
+                  "53",
+                  "55",
+                  "56",
+                  "57",
+                  "68"
+               ]
             ],
             "hr7J1@5uL`SGQfQkwU9]" : [
                "sound map",
@@ -2220,19 +2553,19 @@
          "variables" : {
             ")0pujx+GHN~YcHM*`Ve(" : [
                "touch palette",
-               "1"
+               "0"
             ],
             "*oBcjL|x-#?:](cOQj+h" : [
                "tilePlaceOK",
-               "0"
+               "1"
             ],
             "/2TD5]t4iw99N}h{F/is" : [
                "nextEntityId",
-               "1"
+               10
             ],
             "4+~gwU3.!fWa6j%2[JIY" : [
                "updating hotbar tile",
-               5
+               2
             ],
             "4X73=yvXkdvCK}Y#2TX_-texturePack-" : [
                "texturePack",
@@ -2256,7 +2589,7 @@
             ],
             "?B,2pg@/#e`sJ!n!H59q-counter-" : [
                "counter",
-               "0"
+               86
             ],
             "?B,2pg@/#e`sJ!n!H59q-currentAssembleVariable-" : [
                "currentAssembleVariable",
@@ -2272,11 +2605,11 @@
             ],
             "?B,2pg@/#e`sJ!n!H59q-decrementID-" : [
                "decrementID",
-               11
+               0
             ],
             "?B,2pg@/#e`sJ!n!H59q-gameRunning-" : [
                "gameRunning",
-               "0"
+               "1"
             ],
             "?B,2pg@/#e`sJ!n!H59q-interfaceStylePack-" : [
                "interfaceStylePack",
@@ -2292,19 +2625,19 @@
             ],
             "?B,2pg@/#e`sJ!n!H59q-nextPaletteTileId-" : [
                "nextPaletteTileId",
-               1085
+               1086
             ],
             "?B,2pg@/#e`sJ!n!H59q-nextSlotID-" : [
                "nextSlotID",
-               "1"
+               11
             ],
             "?B,2pg@/#e`sJ!n!H59q-paletteGenerated-" : [
                "paletteGenerated",
-               "0"
+               "1"
             ],
             "?B,2pg@/#e`sJ!n!H59q-returnValue-" : [
                "returnValue",
-               "-1"
+               2
             ],
             "?B,2pg@/#e`sJ!n!H59q-saveCounter-" : [
                "saveCounter",
@@ -2316,11 +2649,11 @@
             ],
             "?B,2pg@/#e`sJ!n!H59q-tileType-" : [
                "sendType",
-               "1"
+               83
             ],
             "?B,2pg@/#e`sJ!n!H59q-tileX-" : [
                "sendX",
-               3
+               7
             ],
             "?B,2pg@/#e`sJ!n!H59q-tileY-" : [
                "sendY",
@@ -2336,7 +2669,7 @@
             ],
             "O0awO@jsl;q^(?$d2Ln;" : [
                "pos check X",
-               3
+               6
             ],
             "R*zkE4v;sECGzikbuXe%" : [
                "posCheckInUse",
@@ -4776,7 +5109,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 32,
+         "layerOrder" : 22,
          "lists" : {},
          "name" : "PurpleSoftwareLogoNEW",
          "rotationStyle" : "all around",
@@ -5266,7 +5599,7 @@
             }
          ],
          "variables" : {},
-         "visible" : true,
+         "visible" : false,
          "volume" : 100,
          "x" : 0,
          "y" : 0
@@ -12347,7 +12680,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 39,
+         "layerOrder" : 29,
          "lists" : {},
          "name" : "load",
          "rotationStyle" : "all around",
@@ -12414,7 +12747,7 @@
                0
             ]
          },
-         "visible" : true,
+         "visible" : false,
          "volume" : 100,
          "x" : 0,
          "y" : -77
@@ -13123,7 +13456,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 33,
+         "layerOrder" : 23,
          "lists" : {},
          "name" : "create world",
          "rotationStyle" : "all around",
@@ -13149,7 +13482,7 @@
             }
          ],
          "variables" : {},
-         "visible" : true,
+         "visible" : false,
          "volume" : 100,
          "x" : 0,
          "y" : -45
@@ -13925,7 +14258,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 18,
+         "layerOrder" : 31,
          "lists" : {},
          "name" : "ButtonWorldBG",
          "rotationStyle" : "all around",
@@ -14448,7 +14781,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 19,
+         "layerOrder" : 32,
          "lists" : {},
          "name" : "confirm_create",
          "rotationStyle" : "all around",
@@ -14913,7 +15246,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 35,
+         "layerOrder" : 25,
          "lists" : {},
          "name" : "sample",
          "rotationStyle" : "all around",
@@ -14939,7 +15272,7 @@
             }
          ],
          "variables" : {},
-         "visible" : true,
+         "visible" : false,
          "volume" : 100,
          "x" : 0,
          "y" : -109
@@ -15889,7 +16222,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 34,
+         "layerOrder" : 24,
          "lists" : {},
          "name" : "secret_settings",
          "rotationStyle" : "all around",
@@ -15915,7 +16248,7 @@
             }
          ],
          "variables" : {},
-         "visible" : true,
+         "visible" : false,
          "volume" : 100,
          "x" : 0,
          "y" : -141
@@ -33907,6 +34240,15 @@
                "rotationCenterY" : 15
             },
             {
+               "assetId" : "be3903881c21432f6f939887fab9606d",
+               "bitmapResolution" : 2,
+               "dataFormat" : "png",
+               "md5ext" : "be3903881c21432f6f939887fab9606d.png",
+               "name" : "fire1",
+               "rotationCenterX" : 15,
+               "rotationCenterY" : 15
+            },
+            {
                "assetId" : "bf61aa6afbe71675eb51b8306ce49507",
                "bitmapResolution" : 2,
                "dataFormat" : "png",
@@ -33925,11 +34267,11 @@
                "rotationCenterY" : 8
             }
          ],
-         "currentCostume" : 0,
+         "currentCostume" : 82,
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 21,
+         "layerOrder" : 34,
          "lists" : {},
          "name" : "Tiles",
          "rotationStyle" : "all around",
@@ -34111,7 +34453,7 @@
             ],
             "vx$`LKl1q%T^GKVi]zNu" : [
                "returnX",
-               3
+               6
             ],
             "zAT:+9FzAf)EGa,fq!8E" : [
                "returnHex",
@@ -34127,12 +34469,12 @@
             ],
             "}tkLXg#7?waSDn_FR6-q" : [
                "returnY",
-               5
+               6
             ]
          },
          "visible" : false,
          "volume" : 100,
-         "x" : -224,
+         "x" : -32,
          "y" : 157
       },
       {
@@ -34933,7 +35275,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 38,
+         "layerOrder" : 28,
          "lists" : {},
          "name" : "interface_texture",
          "rotationStyle" : "all around",
@@ -34959,7 +35301,7 @@
             }
          ],
          "variables" : {},
-         "visible" : true,
+         "visible" : false,
          "volume" : 100,
          "x" : 0,
          "y" : -13
@@ -37021,7 +37363,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 31,
+         "layerOrder" : 39,
          "lists" : {},
          "name" : "PopUp Instructions",
          "rotationStyle" : "all around",
@@ -37041,7 +37383,7 @@
          "visible" : false,
          "volume" : 100,
          "x" : 162,
-         "y" : 183
+         "y" : 161
       },
       {
          "blocks" : {
@@ -37493,7 +37835,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 17,
+         "layerOrder" : 30,
          "lists" : {},
          "name" : "PopUp Help",
          "rotationStyle" : "all around",
@@ -37857,7 +38199,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 36,
+         "layerOrder" : 26,
          "lists" : {},
          "name" : "TilecraftStudio",
          "rotationStyle" : "all around",
@@ -37883,7 +38225,7 @@
             }
          ],
          "variables" : {},
-         "visible" : true,
+         "visible" : false,
          "volume" : 100,
          "x" : 219,
          "y" : -154
@@ -38544,7 +38886,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 37,
+         "layerOrder" : 27,
          "lists" : {},
          "name" : "touch_mode",
          "rotationStyle" : "all around",
@@ -38570,7 +38912,7 @@
             }
          ],
          "variables" : {},
-         "visible" : true,
+         "visible" : false,
          "volume" : 100,
          "x" : 219,
          "y" : -122
@@ -40663,7 +41005,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 22,
+         "layerOrder" : 35,
          "lists" : {},
          "name" : "Palette",
          "rotationStyle" : "all around",
@@ -41208,7 +41550,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 20,
+         "layerOrder" : 33,
          "lists" : {},
          "name" : "HotbarBG",
          "rotationStyle" : "all around",
@@ -42187,7 +42529,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 26,
+         "layerOrder" : 36,
          "lists" : {},
          "name" : "PauseMenu",
          "rotationStyle" : "all around",
@@ -42211,8 +42553,8 @@
          },
          "visible" : false,
          "volume" : 100,
-         "x" : 214.109826589595,
-         "y" : -82.7812018489984
+         "x" : 213,
+         "y" : -85
       },
       {
          "blocks" : {
@@ -43410,7 +43752,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 24,
+         "layerOrder" : 21,
          "lists" : {},
          "name" : "OpenPalette",
          "rotationStyle" : "all around",
@@ -43434,8 +43776,8 @@
          },
          "visible" : false,
          "volume" : 100,
-         "x" : 214.109826589595,
-         "y" : -122.781201848998
+         "x" : 213,
+         "y" : -125
       },
       {
          "blocks" : {
@@ -44012,7 +44354,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 28,
+         "layerOrder" : 19,
          "lists" : {},
          "name" : "pause menu save",
          "rotationStyle" : "all around",
@@ -44275,7 +44617,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 25,
+         "layerOrder" : 17,
          "lists" : {},
          "name" : "pause menu background",
          "rotationStyle" : "all around",
@@ -44858,7 +45200,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 27,
+         "layerOrder" : 18,
          "lists" : {},
          "name" : "pause delete world",
          "rotationStyle" : "all around",
@@ -45321,7 +45663,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 29,
+         "layerOrder" : 20,
          "lists" : {},
          "name" : "exit game",
          "rotationStyle" : "all around",
@@ -45345,6 +45687,37 @@
       },
       {
          "blocks" : {
+            "!,WStTLUyB|p=#P6AHb$" : {
+               "fields" : {},
+               "inputs" : {
+                  "3A!%BlBB%ln`G%%O4$}]" : [
+                     1,
+                     [
+                        10,
+                        "-1"
+                     ]
+                  ],
+                  "z|WyH[nREF[.%x;=[Ao," : [
+                     1,
+                     [
+                        10,
+                        "0"
+                     ]
+                  ]
+               },
+               "mutation" : {
+                  "argumentids" : "[\"z|WyH[nREF[.%x;=[Ao,\",\"3A!%BlBB%ln`G%%O4$}]\"]",
+                  "children" : [],
+                  "proccode" : "check adjacent flammable %s %s",
+                  "tagName" : "mutation",
+                  "warp" : "false"
+               },
+               "next" : null,
+               "opcode" : "procedures_call",
+               "parent" : "do2df1|?1^`t?%;-?{Bb",
+               "shadow" : false,
+               "topLevel" : false
+            },
             "!8Zx*,lduc+bJybA`mej" : {
                "fields" : {},
                "inputs" : {
@@ -45387,8 +45760,22 @@
                "parent" : null,
                "shadow" : false,
                "topLevel" : true,
-               "x" : 1462,
-               "y" : -921
+               "x" : 1570,
+               "y" : -1024
+            },
+            "#(nH%3]gFeqOU4Pb}ZEL" : {
+               "fields" : {},
+               "inputs" : {
+                  "OPERAND" : [
+                     2,
+                     "_Ik7g/HWjUQ7s=`w`(m{"
+                  ]
+               },
+               "next" : null,
+               "opcode" : "operator_not",
+               "parent" : "fmLF},iqyeL8yfi+cBPy",
+               "shadow" : false,
+               "topLevel" : false
             },
             "#:F-2qv$jrqKkJG)I{iY" : {
                "fields" : {},
@@ -45419,6 +45806,76 @@
                "shadow" : false,
                "topLevel" : false
             },
+            "#OZ|4JiqRmUvt)_YZ~d8" : {
+               "fields" : {},
+               "inputs" : {
+                  "OPERAND1" : [
+                     3,
+                     "om4DjI{N]N=6#BPhb^h4",
+                     [
+                        10,
+                        ""
+                     ]
+                  ],
+                  "OPERAND2" : [
+                     1,
+                     [
+                        10,
+                        "1"
+                     ]
+                  ]
+               },
+               "next" : null,
+               "opcode" : "operator_equals",
+               "parent" : "WmZF+}_!+D61V:uS9pd,",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            "#V%zNsY)3AeV(m)Fx4+n" : {
+               "fields" : {},
+               "inputs" : {
+                  "3A!%BlBB%ln`G%%O4$}]" : [
+                     1,
+                     [
+                        10,
+                        "0"
+                     ]
+                  ],
+                  "z|WyH[nREF[.%x;=[Ao," : [
+                     1,
+                     [
+                        10,
+                        "1"
+                     ]
+                  ]
+               },
+               "mutation" : {
+                  "argumentids" : "[\"z|WyH[nREF[.%x;=[Ao,\",\"3A!%BlBB%ln`G%%O4$}]\"]",
+                  "children" : [],
+                  "proccode" : "check adjacent flammable %s %s",
+                  "tagName" : "mutation",
+                  "warp" : "false"
+               },
+               "next" : null,
+               "opcode" : "procedures_call",
+               "parent" : "K+-)Z4|R(IF52UC#]8WC",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            "#Z~5308`SU{rU~!/[zii" : {
+               "fields" : {
+                  "VALUE" : [
+                     "Y",
+                     null
+                  ]
+               },
+               "inputs" : {},
+               "next" : null,
+               "opcode" : "argument_reporter_string_number",
+               "parent" : "$ymR=5_O@ktjX!G^`h4$",
+               "shadow" : false,
+               "topLevel" : false
+            },
             "#wGPm)@6bR6D@kqto*eH" : {
                "fields" : {
                   "VARIABLE" : [
@@ -45442,6 +45899,28 @@
                "shadow" : false,
                "topLevel" : false
             },
+            "#~nV%+qVkOV!LM1()]t/" : {
+               "fields" : {
+                  "VARIABLE" : [
+                     "posCheckInUse",
+                     "R*zkE4v;sECGzikbuXe%"
+                  ]
+               },
+               "inputs" : {
+                  "VALUE" : [
+                     1,
+                     [
+                        10,
+                        "0"
+                     ]
+                  ]
+               },
+               "next" : null,
+               "opcode" : "data_setvariableto",
+               "parent" : "vo59@Zi@Lm;MJH=kmP7q",
+               "shadow" : false,
+               "topLevel" : false
+            },
             "$tYM_NGlt[bU5P@SJIG|" : {
                "fields" : {
                   "LIST" : [
@@ -45453,6 +45932,36 @@
                "next" : null,
                "opcode" : "data_deletealloflist",
                "parent" : "s4)$NT21$$,SRfJ,=U=c",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            "$ymR=5_O@ktjX!G^`h4$" : {
+               "fields" : {},
+               "inputs" : {
+                  "NUM1" : [
+                     3,
+                     [
+                        12,
+                        "Y",
+                        "q~+1NH-4spNf}i`jp)O/"
+                     ],
+                     [
+                        4,
+                        ""
+                     ]
+                  ],
+                  "NUM2" : [
+                     3,
+                     "#Z~5308`SU{rU~!/[zii",
+                     [
+                        4,
+                        ""
+                     ]
+                  ]
+               },
+               "next" : null,
+               "opcode" : "operator_add",
+               "parent" : "=Y/MkH8_d/y-}bpB%8}h",
                "shadow" : false,
                "topLevel" : false
             },
@@ -45509,6 +46018,28 @@
                "shadow" : false,
                "topLevel" : false
             },
+            "(%*JNFlN!1Ra!db4k[q)" : {
+               "fields" : {
+                  "LIST" : [
+                     "flammable tiles",
+                     "d^n0aC~TPeFWi*tNU4em"
+                  ]
+               },
+               "inputs" : {
+                  "ITEM" : [
+                     1,
+                     [
+                        10,
+                        "57"
+                     ]
+                  ]
+               },
+               "next" : "JhGneGiCGr2,hXmA.)7c",
+               "opcode" : "data_addtolist",
+               "parent" : "~dTo,l]Gw:KI[6w1[#$n",
+               "shadow" : false,
+               "topLevel" : false
+            },
             "(G{+kA[a!+iv*Zr4KZXR" : {
                "fields" : {
                   "NUMBER_NAME" : [
@@ -45557,9 +46088,9 @@
                      "#wGPm)@6bR6D@kqto*eH"
                   ]
                },
-               "next" : "[Vro-zt+*OFbMHB_bb=;",
+               "next" : null,
                "opcode" : "control_if_else",
-               "parent" : "{-_Yp#TpIdbP|SrOvH},",
+               "parent" : ":qj$t6m0NQ?idR?@A$kn",
                "shadow" : false,
                "topLevel" : false
             },
@@ -45582,6 +46113,33 @@
                "next" : "ciw~=yd*+`NQ~@OnD1Y4",
                "opcode" : "data_setvariableto",
                "parent" : "l5aWVuI)^FEI|ePZ+h@y",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            ")iCZr#wWcf+l}pnx.sM0" : {
+               "fields" : {
+                  "LIST" : [
+                     "save data Type",
+                     "3J=[3z[FDzeUtH3dHLci"
+                  ]
+               },
+               "inputs" : {
+                  "INDEX" : [
+                     3,
+                     [
+                        12,
+                        "returnValue",
+                        "?B,2pg@/#e`sJ!n!H59q-returnValue-"
+                     ],
+                     [
+                        7,
+                        "1"
+                     ]
+                  ]
+               },
+               "next" : null,
+               "opcode" : "data_itemoflist",
+               "parent" : "_Ik7g/HWjUQ7s=`w`(m{",
                "shadow" : false,
                "topLevel" : false
             },
@@ -45636,7 +46194,7 @@
                },
                "next" : "2)loD!mz9xdq;~gsQ[^O",
                "opcode" : "procedures_call",
-               "parent" : "VYY%u-Lf`QZWtXLwUjno",
+               "parent" : "YDeM2^_3OM{Kf9T88`o~",
                "shadow" : false,
                "topLevel" : false
             },
@@ -45653,8 +46211,8 @@
                "parent" : null,
                "shadow" : false,
                "topLevel" : true,
-               "x" : 1111,
-               "y" : -925
+               "x" : 1305,
+               "y" : -865
             },
             "*q4J/CmaeK{O3m{/6EEL" : {
                "fields" : {},
@@ -45725,6 +46283,28 @@
                "next" : "l5aWVuI)^FEI|ePZ+h@y",
                "opcode" : "event_broadcastandwait",
                "parent" : "Y{d|L:]m`S|B(uFqJx$X",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            "+^2!f=Or51zfX518^#.#" : {
+               "fields" : {
+                  "LIST" : [
+                     "flammable tiles",
+                     "d^n0aC~TPeFWi*tNU4em"
+                  ]
+               },
+               "inputs" : {
+                  "ITEM" : [
+                     1,
+                     [
+                        10,
+                        "53"
+                     ]
+                  ]
+               },
+               "next" : "YCO/?t8Y9wKoqwiz!AEa",
+               "opcode" : "data_addtolist",
+               "parent" : "@^B3F[!6^-^9()G3FQ;u",
                "shadow" : false,
                "topLevel" : false
             },
@@ -45808,6 +46388,35 @@
                "next" : null,
                "opcode" : "operator_equals",
                "parent" : "_3@I7!f2$4A@p-)o~eKl",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            ",Lg8=[!RR;V1pgb9V8Dv" : {
+               "fields" : {},
+               "inputs" : {
+                  "OPERAND1" : [
+                     3,
+                     [
+                        12,
+                        "posCheckInUse",
+                        "R*zkE4v;sECGzikbuXe%"
+                     ],
+                     [
+                        10,
+                        ""
+                     ]
+                  ],
+                  "OPERAND2" : [
+                     1,
+                     [
+                        10,
+                        "0"
+                     ]
+                  ]
+               },
+               "next" : null,
+               "opcode" : "operator_equals",
+               "parent" : "q%t319wSkxVn=mq+VIA0",
                "shadow" : false,
                "topLevel" : false
             },
@@ -46160,6 +46769,28 @@
                "shadow" : false,
                "topLevel" : false
             },
+            "1_)F|}!lCjZ8}Ts?T_|," : {
+               "fields" : {
+                  "LIST" : [
+                     "flammable tiles",
+                     "d^n0aC~TPeFWi*tNU4em"
+                  ]
+               },
+               "inputs" : {
+                  "ITEM" : [
+                     1,
+                     [
+                        10,
+                        "1"
+                     ]
+                  ]
+               },
+               "next" : "4d7[=%n[MuN;Aq]6])f5",
+               "opcode" : "data_addtolist",
+               "parent" : "8ApOo^5?_Eu[)vA1GIC1",
+               "shadow" : false,
+               "topLevel" : false
+            },
             "1pqJMoUfe~e1Ej0v%oR#" : {
                "fields" : {
                   "SOUND_MENU" : [
@@ -46317,6 +46948,33 @@
                "shadow" : false,
                "topLevel" : false
             },
+            "3`;bCo/O~j?9Bj1t=thZ" : {
+               "fields" : {
+                  "VARIABLE" : [
+                     "sendX",
+                     "?B,2pg@/#e`sJ!n!H59q-tileX-"
+                  ]
+               },
+               "inputs" : {
+                  "VALUE" : [
+                     3,
+                     [
+                        12,
+                        "pos check X",
+                        "O0awO@jsl;q^(?$d2Ln;"
+                     ],
+                     [
+                        10,
+                        "0"
+                     ]
+                  ]
+               },
+               "next" : "]}ljD*kB`mJS3SkpJpuZ",
+               "opcode" : "data_setvariableto",
+               "parent" : "vo59@Zi@Lm;MJH=kmP7q",
+               "shadow" : false,
+               "topLevel" : false
+            },
             "4193DPezcw0-OC[.@o//" : {
                "fields" : {},
                "inputs" : {
@@ -46399,6 +47057,28 @@
                "shadow" : false,
                "topLevel" : false
             },
+            "4d7[=%n[MuN;Aq]6])f5" : {
+               "fields" : {
+                  "LIST" : [
+                     "flammable tiles",
+                     "d^n0aC~TPeFWi*tNU4em"
+                  ]
+               },
+               "inputs" : {
+                  "ITEM" : [
+                     1,
+                     [
+                        10,
+                        "5"
+                     ]
+                  ]
+               },
+               "next" : "BMN[,$:*pC8;521p{F[s",
+               "opcode" : "data_addtolist",
+               "parent" : "1_)F|}!lCjZ8}Ts?T_|,",
+               "shadow" : false,
+               "topLevel" : false
+            },
             "4u)+y}[oimla076;MImw" : {
                "fields" : {
                   "VALUE" : [
@@ -46451,8 +47131,8 @@
                "parent" : null,
                "shadow" : false,
                "topLevel" : true,
-               "x" : 662,
-               "y" : -438
+               "x" : 826,
+               "y" : -226
             },
             "5=b1]Z5x0woGl#;)caY!" : {
                "fields" : {
@@ -46478,6 +47158,20 @@
                "next" : null,
                "opcode" : "data_setvariableto",
                "parent" : "Gh}FxSy@Fi4f:+oGW+qL",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            "5EXQK5LhfmVZLCOYv6^j" : {
+               "fields" : {},
+               "inputs" : {
+                  "COSTUME" : [
+                     1,
+                     "G#]}yH=@FOiWsJ=I*tQT"
+                  ]
+               },
+               "next" : null,
+               "opcode" : "looks_switchcostumeto",
+               "parent" : "sx.K4-?DRvDukFJ5*|*M",
                "shadow" : false,
                "topLevel" : false
             },
@@ -46514,6 +47208,37 @@
                "next" : null,
                "opcode" : "control_if",
                "parent" : "Z(a,ods3D7gdZ1!sZd~,",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            "6.~]9aNC%3sjgTQr=|l5" : {
+               "fields" : {},
+               "inputs" : {
+                  "3A!%BlBB%ln`G%%O4$}]" : [
+                     1,
+                     [
+                        10,
+                        "0"
+                     ]
+                  ],
+                  "z|WyH[nREF[.%x;=[Ao," : [
+                     1,
+                     [
+                        10,
+                        "-1"
+                     ]
+                  ]
+               },
+               "mutation" : {
+                  "argumentids" : "[\"z|WyH[nREF[.%x;=[Ao,\",\"3A!%BlBB%ln`G%%O4$}]\"]",
+                  "children" : [],
+                  "proccode" : "check adjacent flammable %s %s",
+                  "tagName" : "mutation",
+                  "warp" : "false"
+               },
+               "next" : null,
+               "opcode" : "procedures_call",
+               "parent" : "K+-)Z4|R(IF52UC#]8WC",
                "shadow" : false,
                "topLevel" : false
             },
@@ -46569,6 +47294,33 @@
                "shadow" : true,
                "topLevel" : false
             },
+            "8.GxeR;/QNBOI%}kSQ[H" : {
+               "fields" : {},
+               "inputs" : {
+                  "3A!%BlBB%ln`G%%O4$}]" : [
+                     1,
+                     "K-oR`gU~!#DH;G3wHFa="
+                  ],
+                  "z|WyH[nREF[.%x;=[Ao," : [
+                     1,
+                     "Ea*n;OSo}Dqc%WgI5?Bu"
+                  ]
+               },
+               "mutation" : {
+                  "argumentdefaults" : "[\"\",\"\"]",
+                  "argumentids" : "[\"z|WyH[nREF[.%x;=[Ao,\",\"3A!%BlBB%ln`G%%O4$}]\"]",
+                  "argumentnames" : "[\"X\",\"Y\"]",
+                  "children" : [],
+                  "proccode" : "check adjacent flammable %s %s",
+                  "tagName" : "mutation",
+                  "warp" : "false"
+               },
+               "next" : null,
+               "opcode" : "procedures_prototype",
+               "parent" : "OeJj%`GWXb@Cp7ZIvNeD",
+               "shadow" : true,
+               "topLevel" : false
+            },
             "8:Limv@^Z{o6=~?+j-]k" : {
                "fields" : {},
                "inputs" : {
@@ -46580,6 +47332,43 @@
                "next" : null,
                "opcode" : "control_wait_until",
                "parent" : "(Sh)WxSZf(dWeLhAhodl",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            "8ApOo^5?_Eu[)vA1GIC1" : {
+               "fields" : {
+                  "LIST" : [
+                     "flammable tiles",
+                     "d^n0aC~TPeFWi*tNU4em"
+                  ]
+               },
+               "inputs" : {},
+               "next" : "1_)F|}!lCjZ8}Ts?T_|,",
+               "opcode" : "data_deletealloflist",
+               "parent" : "w(h-)i[Jx~+nxu3Y^,tX",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            "8~?3bta2|UTj:F,Z:HLn" : {
+               "fields" : {
+                  "VARIABLE" : [
+                     "pos check X",
+                     "O0awO@jsl;q^(?$d2Ln;"
+                  ]
+               },
+               "inputs" : {
+                  "VALUE" : [
+                     3,
+                     "gs+w9CE+);VgND@qrT,t",
+                     [
+                        10,
+                        "0"
+                     ]
+                  ]
+               },
+               "next" : "=Y/MkH8_d/y-}bpB%8}h",
+               "opcode" : "data_setvariableto",
+               "parent" : "cJXx-f.Lxq!lT$]v6mwa",
                "shadow" : false,
                "topLevel" : false
             },
@@ -46599,7 +47388,7 @@
                      ]
                   ]
                },
-               "next" : null,
+               "next" : "`.Rm/WGX6BuW17x71Gr(",
                "opcode" : "data_addtolist",
                "parent" : "9`d+Xz5VHDQE4?X!_L]f",
                "shadow" : false,
@@ -46641,7 +47430,7 @@
                },
                "next" : "9LQDhJ;I`l:@1,dp)[Rt",
                "opcode" : "data_addtolist",
-               "parent" : "`.Rm/WGX6BuW17x71Gr(",
+               "parent" : "Xy.=rM@iPww0/*qY?-9F",
                "shadow" : false,
                "topLevel" : false
             },
@@ -46758,6 +47547,24 @@
                "next" : "wqZqZHeZE=!Ye8E]1K-s",
                "opcode" : "procedures_call",
                "parent" : "k3BJ5od#E+XB^;.7/.qR",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            ":qj$t6m0NQ?idR?@A$kn" : {
+               "fields" : {},
+               "inputs" : {
+                  "CONDITION" : [
+                     2,
+                     "]7|.i,Wa3u:k0Cl#JwM."
+                  ],
+                  "SUBSTACK" : [
+                     2,
+                     "):4T_:lhH%[76b^`V{(!"
+                  ]
+               },
+               "next" : "[Vro-zt+*OFbMHB_bb=;",
+               "opcode" : "control_if",
+               "parent" : "{-_Yp#TpIdbP|SrOvH},",
                "shadow" : false,
                "topLevel" : false
             },
@@ -46880,6 +47687,29 @@
                "shadow" : false,
                "topLevel" : false
             },
+            "=Y/MkH8_d/y-}bpB%8}h" : {
+               "fields" : {
+                  "VARIABLE" : [
+                     "pos check Y",
+                     "e+}LB8g!2(uL^m2nPI}4"
+                  ]
+               },
+               "inputs" : {
+                  "VALUE" : [
+                     3,
+                     "$ymR=5_O@ktjX!G^`h4$",
+                     [
+                        10,
+                        "0"
+                     ]
+                  ]
+               },
+               "next" : "f,zIFyjwB6it:=z/zWg?",
+               "opcode" : "data_setvariableto",
+               "parent" : "8~?3bta2|UTj:F,Z:HLn",
+               "shadow" : false,
+               "topLevel" : false
+            },
             "=eTg_Kb*w7JKu-dI8NSA" : {
                "fields" : {
                   "FRONT_BACK" : [
@@ -46942,6 +47772,28 @@
                "shadow" : false,
                "topLevel" : false
             },
+            "@#u}w0yRQX$qi??Ipw^H" : {
+               "fields" : {
+                  "VARIABLE" : [
+                     "posCheckInUse",
+                     "R*zkE4v;sECGzikbuXe%"
+                  ]
+               },
+               "inputs" : {
+                  "VALUE" : [
+                     1,
+                     [
+                        10,
+                        "0"
+                     ]
+                  ]
+               },
+               "next" : "d+F8XKA=R[w-=IFMkqS@",
+               "opcode" : "data_setvariableto",
+               "parent" : "fmLF},iqyeL8yfi+cBPy",
+               "shadow" : false,
+               "topLevel" : false
+            },
             "@(CsDs;zlr3Lf1ukF^1F" : {
                "fields" : {
                   "STOP_OPTION" : [
@@ -46958,6 +47810,28 @@
                "next" : null,
                "opcode" : "control_stop",
                "parent" : "f7tAPT4S{1*YY[l@=XJC",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            "@^B3F[!6^-^9()G3FQ;u" : {
+               "fields" : {
+                  "LIST" : [
+                     "flammable tiles",
+                     "d^n0aC~TPeFWi*tNU4em"
+                  ]
+               },
+               "inputs" : {
+                  "ITEM" : [
+                     1,
+                     [
+                        10,
+                        "48"
+                     ]
+                  ]
+               },
+               "next" : "+^2!f=Or51zfX518^#.#",
+               "opcode" : "data_addtolist",
+               "parent" : "UeMH~u*JIc47dT-`;A4n",
                "shadow" : false,
                "topLevel" : false
             },
@@ -46978,9 +47852,49 @@
             "Am~r]af~3inFNv0VxK#." : {
                "fields" : {},
                "inputs" : {},
-               "next" : "MtDA.vZCj+q]g$2LnO`Z",
+               "next" : null,
                "opcode" : "looks_nextcostume",
-               "parent" : "vi}`-bZ2ikGcA|6AGD+H",
+               "parent" : "sx.K4-?DRvDukFJ5*|*M",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            "B.S(F)(}{STY9(`(n):8" : {
+               "fields" : {},
+               "inputs" : {
+                  "CONDITION" : [
+                     2,
+                     "UvY=DEV,ujlz~5tD2Eb_"
+                  ],
+                  "SUBSTACK" : [
+                     2,
+                     "WmZF+}_!+D61V:uS9pd,"
+                  ]
+               },
+               "next" : "MtDA.vZCj+q]g$2LnO`Z",
+               "opcode" : "control_if",
+               "parent" : "sx.K4-?DRvDukFJ5*|*M",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            "BMN[,$:*pC8;521p{F[s" : {
+               "fields" : {
+                  "LIST" : [
+                     "flammable tiles",
+                     "d^n0aC~TPeFWi*tNU4em"
+                  ]
+               },
+               "inputs" : {
+                  "ITEM" : [
+                     1,
+                     [
+                        10,
+                        "10"
+                     ]
+                  ]
+               },
+               "next" : "C1vcAP{kRr1td=?5G+y?",
+               "opcode" : "data_addtolist",
+               "parent" : "4d7[=%n[MuN;Aq]6])f5",
                "shadow" : false,
                "topLevel" : false
             },
@@ -47003,6 +47917,42 @@
                "next" : null,
                "opcode" : "data_setvariableto",
                "parent" : "l5aWVuI)^FEI|ePZ+h@y",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            "C1vcAP{kRr1td=?5G+y?" : {
+               "fields" : {
+                  "LIST" : [
+                     "flammable tiles",
+                     "d^n0aC~TPeFWi*tNU4em"
+                  ]
+               },
+               "inputs" : {
+                  "ITEM" : [
+                     1,
+                     [
+                        10,
+                        "14"
+                     ]
+                  ]
+               },
+               "next" : "[f{p{rU_PsL$IytD5[{,",
+               "opcode" : "data_addtolist",
+               "parent" : "BMN[,$:*pC8;521p{F[s",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            "CD0jm2}G=Pu_jL0jw6,5" : {
+               "fields" : {
+                  "VALUE" : [
+                     "X",
+                     null
+                  ]
+               },
+               "inputs" : {},
+               "next" : null,
+               "opcode" : "argument_reporter_string_number",
+               "parent" : "gs+w9CE+);VgND@qrT,t",
                "shadow" : false,
                "topLevel" : false
             },
@@ -47135,6 +48085,20 @@
                "shadow" : false,
                "topLevel" : false
             },
+            "Ea*n;OSo}Dqc%WgI5?Bu" : {
+               "fields" : {
+                  "VALUE" : [
+                     "X",
+                     null
+                  ]
+               },
+               "inputs" : {},
+               "next" : null,
+               "opcode" : "argument_reporter_string_number",
+               "parent" : "8.GxeR;/QNBOI%}kSQ[H",
+               "shadow" : true,
+               "topLevel" : false
+            },
             "E{#gZm$2.)v/!_3o?|f#" : {
                "fields" : {},
                "inputs" : {
@@ -47178,6 +48142,20 @@
                "shadow" : false,
                "topLevel" : false
             },
+            "G#]}yH=@FOiWsJ=I*tQT" : {
+               "fields" : {
+                  "COSTUME" : [
+                     "fire1",
+                     null
+                  ]
+               },
+               "inputs" : {},
+               "next" : null,
+               "opcode" : "looks_costume",
+               "parent" : "5EXQK5LhfmVZLCOYv6^j",
+               "shadow" : true,
+               "topLevel" : false
+            },
             "G$(e!~w_hd*;0X$i`*][" : {
                "fields" : {},
                "inputs" : {
@@ -47204,6 +48182,31 @@
                "next" : null,
                "opcode" : "operator_equals",
                "parent" : "g!]vySvw@(]B@SR7lC^~",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            "G*$,[iQHjZI]?^{n2Azq" : {
+               "fields" : {},
+               "inputs" : {
+                  "OPERAND1" : [
+                     3,
+                     "[gyv5KUGiy38lXlJJ~%W",
+                     [
+                        10,
+                        ""
+                     ]
+                  ],
+                  "OPERAND2" : [
+                     1,
+                     [
+                        10,
+                        "5"
+                     ]
+                  ]
+               },
+               "next" : null,
+               "opcode" : "operator_lt",
+               "parent" : "sx.K4-?DRvDukFJ5*|*M",
                "shadow" : false,
                "topLevel" : false
             },
@@ -47241,6 +48244,49 @@
                "next" : null,
                "opcode" : "data_setvariableto",
                "parent" : "~Tw3[T8iWF)GjPXKwpvF",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            "GCK-lk!bbT5-bHI;awGQ" : {
+               "fields" : {
+                  "STOP_OPTION" : [
+                     "this script",
+                     null
+                  ]
+               },
+               "inputs" : {},
+               "mutation" : {
+                  "children" : [],
+                  "hasnext" : "false",
+                  "tagName" : "mutation"
+               },
+               "next" : null,
+               "opcode" : "control_stop",
+               "parent" : "onNVUm@VoKF0^YN0hXI)",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            "Gct#ZM6A[x?/brz`cbpc" : {
+               "fields" : {},
+               "inputs" : {
+                  "FROM" : [
+                     1,
+                     [
+                        4,
+                        "1"
+                     ]
+                  ],
+                  "TO" : [
+                     1,
+                     [
+                        4,
+                        "2"
+                     ]
+                  ]
+               },
+               "next" : null,
+               "opcode" : "operator_random",
+               "parent" : "W%/MP?Xg)rYI_1!mPhi:",
                "shadow" : false,
                "topLevel" : false
             },
@@ -47498,6 +48544,28 @@
                "shadow" : false,
                "topLevel" : false
             },
+            "JhGneGiCGr2,hXmA.)7c" : {
+               "fields" : {
+                  "LIST" : [
+                     "flammable tiles",
+                     "d^n0aC~TPeFWi*tNU4em"
+                  ]
+               },
+               "inputs" : {
+                  "ITEM" : [
+                     1,
+                     [
+                        10,
+                        "68"
+                     ]
+                  ]
+               },
+               "next" : null,
+               "opcode" : "data_addtolist",
+               "parent" : "(%*JNFlN!1Ra!db4k[q)",
+               "shadow" : false,
+               "topLevel" : false
+            },
             "Jjh001vd{6me,k)J4x|B" : {
                "fields" : {
                   "VALUE" : [
@@ -47510,6 +48578,42 @@
                "opcode" : "argument_reporter_string_number",
                "parent" : "St^6@KpV4VI:l8u1:pM{",
                "shadow" : false,
+               "topLevel" : false
+            },
+            "K+-)Z4|R(IF52UC#]8WC" : {
+               "fields" : {},
+               "inputs" : {
+                  "CONDITION" : [
+                     2,
+                     "kHYb7RYv4MFyJd-cU}R_"
+                  ],
+                  "SUBSTACK" : [
+                     2,
+                     "6.~]9aNC%3sjgTQr=|l5"
+                  ],
+                  "SUBSTACK2" : [
+                     2,
+                     "#V%zNsY)3AeV(m)Fx4+n"
+                  ]
+               },
+               "next" : null,
+               "opcode" : "control_if_else",
+               "parent" : "WmZF+}_!+D61V:uS9pd,",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            "K-oR`gU~!#DH;G3wHFa=" : {
+               "fields" : {
+                  "VALUE" : [
+                     "Y",
+                     null
+                  ]
+               },
+               "inputs" : {},
+               "next" : null,
+               "opcode" : "argument_reporter_string_number",
+               "parent" : "8.GxeR;/QNBOI%}kSQ[H",
+               "shadow" : true,
                "topLevel" : false
             },
             "KE4QAAwBv9bf8$R}K;h@" : {
@@ -47543,6 +48647,37 @@
                "next" : null,
                "opcode" : "operator_or",
                "parent" : "O:mRX%mS;jo9Lt}:DRl.",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            "L$B?BZLv6r16::85mX/x" : {
+               "fields" : {},
+               "inputs" : {
+                  "3A!%BlBB%ln`G%%O4$}]" : [
+                     1,
+                     [
+                        10,
+                        "1"
+                     ]
+                  ],
+                  "z|WyH[nREF[.%x;=[Ao," : [
+                     1,
+                     [
+                        10,
+                        "0"
+                     ]
+                  ]
+               },
+               "mutation" : {
+                  "argumentids" : "[\"z|WyH[nREF[.%x;=[Ao,\",\"3A!%BlBB%ln`G%%O4$}]\"]",
+                  "children" : [],
+                  "proccode" : "check adjacent flammable %s %s",
+                  "tagName" : "mutation",
+                  "warp" : "false"
+               },
+               "next" : null,
+               "opcode" : "procedures_call",
+               "parent" : "do2df1|?1^`t?%;-?{Bb",
                "shadow" : false,
                "topLevel" : false
             },
@@ -47603,8 +48738,8 @@
                "parent" : null,
                "shadow" : false,
                "topLevel" : true,
-               "x" : 439,
-               "y" : -778
+               "x" : 437,
+               "y" : -659
             },
             "M+DGw$Y(7nC[Dp=?|!D9" : {
                "fields" : {},
@@ -47614,8 +48749,26 @@
                "parent" : null,
                "shadow" : false,
                "topLevel" : true,
-               "x" : 63,
-               "y" : -814
+               "x" : -17,
+               "y" : -989
+            },
+            "Mo.zYSvJNk;0:[:@1/Cc" : {
+               "fields" : {},
+               "inputs" : {},
+               "mutation" : {
+                  "argumentdefaults" : "[]",
+                  "argumentids" : "[]",
+                  "argumentnames" : "[]",
+                  "children" : [],
+                  "proccode" : "set up flammable tiles",
+                  "tagName" : "mutation",
+                  "warp" : "false"
+               },
+               "next" : null,
+               "opcode" : "procedures_prototype",
+               "parent" : "w(h-)i[Jx~+nxu3Y^,tX",
+               "shadow" : true,
+               "topLevel" : false
             },
             "Mr%lEwYU`QxengOnh[7j" : {
                "fields" : {},
@@ -47652,7 +48805,23 @@
                },
                "next" : null,
                "opcode" : "control_wait",
-               "parent" : "Am~r]af~3inFNv0VxK#.",
+               "parent" : "B.S(F)(}{STY9(`(n):8",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            "N#nv$aZy7#z1y0qE.a%J" : {
+               "fields" : {},
+               "inputs" : {},
+               "mutation" : {
+                  "argumentids" : "[]",
+                  "children" : [],
+                  "proccode" : "set up flammable tiles",
+                  "tagName" : "mutation",
+                  "warp" : "false"
+               },
+               "next" : null,
+               "opcode" : "procedures_call",
+               "parent" : "w]QISWj|8,zPuy6ZAW11",
                "shadow" : false,
                "topLevel" : false
             },
@@ -47721,6 +48890,28 @@
                "shadow" : false,
                "topLevel" : false
             },
+            "OX,gHm-=krVStbLA+wo^" : {
+               "fields" : {
+                  "LIST" : [
+                     "flammable tiles",
+                     "d^n0aC~TPeFWi*tNU4em"
+                  ]
+               },
+               "inputs" : {
+                  "ITEM" : [
+                     1,
+                     [
+                        10,
+                        "34"
+                     ]
+                  ]
+               },
+               "next" : "pW{)!J8G,!9?pOevd(`q",
+               "opcode" : "data_addtolist",
+               "parent" : "d^FW07Xs{t6u{.PC#sM3",
+               "shadow" : false,
+               "topLevel" : false
+            },
             "OY(L){*]7JZe|DZkb..;" : {
                "fields" : {},
                "inputs" : {
@@ -47736,6 +48927,22 @@
                "topLevel" : true,
                "x" : 1974,
                "y" : -245
+            },
+            "OeJj%`GWXb@Cp7ZIvNeD" : {
+               "fields" : {},
+               "inputs" : {
+                  "custom_block" : [
+                     1,
+                     "8.GxeR;/QNBOI%}kSQ[H"
+                  ]
+               },
+               "next" : "q%t319wSkxVn=mq+VIA0",
+               "opcode" : "procedures_definition",
+               "parent" : null,
+               "shadow" : false,
+               "topLevel" : true,
+               "x" : 677,
+               "y" : -1611
             },
             "Osh3NW|hxy;qIYu]3L%1" : {
                "fields" : {
@@ -48059,6 +49266,24 @@
                "shadow" : false,
                "topLevel" : false
             },
+            "T+DwJ$5mSH9$r3B:ur[q" : {
+               "fields" : {},
+               "inputs" : {
+                  "BROADCAST_INPUT" : [
+                     1,
+                     [
+                        11,
+                        "entity poscheck",
+                        "ubVR,-b[l4+GTio^QU^("
+                     ]
+                  ]
+               },
+               "next" : "vo59@Zi@Lm;MJH=kmP7q",
+               "opcode" : "event_broadcastandwait",
+               "parent" : "pi9_,m}}ag*1c5C[M#}4",
+               "shadow" : false,
+               "topLevel" : false
+            },
             "TrD38qq()@oiQXT?_/~#" : {
                "fields" : {},
                "inputs" : {
@@ -48176,6 +49401,53 @@
                "shadow" : false,
                "topLevel" : false
             },
+            "UeMH~u*JIc47dT-`;A4n" : {
+               "fields" : {
+                  "LIST" : [
+                     "flammable tiles",
+                     "d^n0aC~TPeFWi*tNU4em"
+                  ]
+               },
+               "inputs" : {
+                  "ITEM" : [
+                     1,
+                     [
+                        10,
+                        "44"
+                     ]
+                  ]
+               },
+               "next" : "@^B3F[!6^-^9()G3FQ;u",
+               "opcode" : "data_addtolist",
+               "parent" : "pW{)!J8G,!9?pOevd(`q",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            "UvY=DEV,ujlz~5tD2Eb_" : {
+               "fields" : {},
+               "inputs" : {
+                  "OPERAND1" : [
+                     3,
+                     "[IQS(+f~DdxbmJQcd6,l",
+                     [
+                        10,
+                        ""
+                     ]
+                  ],
+                  "OPERAND2" : [
+                     1,
+                     [
+                        10,
+                        "1"
+                     ]
+                  ]
+               },
+               "next" : null,
+               "opcode" : "operator_equals",
+               "parent" : "B.S(F)(}{STY9(`(n):8",
+               "shadow" : false,
+               "topLevel" : false
+            },
             "V6?pNC*WWT7vy,mx4C3E" : {
                "fields" : {},
                "inputs" : {
@@ -48210,7 +49482,7 @@
                      ]
                   ]
                },
-               "next" : "*]~|yArs]@}sdtA5m!?*",
+               "next" : "YDeM2^_3OM{Kf9T88`o~",
                "opcode" : "data_setvariableto",
                "parent" : "{~/)*?$`l_DdPg@IaJ)*",
                "shadow" : false,
@@ -48241,6 +49513,31 @@
                "shadow" : false,
                "topLevel" : false
             },
+            "W%/MP?Xg)rYI_1!mPhi:" : {
+               "fields" : {},
+               "inputs" : {
+                  "OPERAND1" : [
+                     3,
+                     "Gct#ZM6A[x?/brz`cbpc",
+                     [
+                        10,
+                        ""
+                     ]
+                  ],
+                  "OPERAND2" : [
+                     1,
+                     [
+                        10,
+                        "1"
+                     ]
+                  ]
+               },
+               "next" : null,
+               "opcode" : "operator_equals",
+               "parent" : "do2df1|?1^`t?%;-?{Bb",
+               "shadow" : false,
+               "topLevel" : false
+            },
             "WS8(m_Pr--v2{mi`xsHs" : {
                "fields" : {},
                "inputs" : {
@@ -48252,6 +49549,28 @@
                "next" : null,
                "opcode" : "sensing_touchingobject",
                "parent" : "O:mRX%mS;jo9Lt}:DRl.",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            "WmZF+}_!+D61V:uS9pd," : {
+               "fields" : {},
+               "inputs" : {
+                  "CONDITION" : [
+                     2,
+                     "#OZ|4JiqRmUvt)_YZ~d8"
+                  ],
+                  "SUBSTACK" : [
+                     2,
+                     "K+-)Z4|R(IF52UC#]8WC"
+                  ],
+                  "SUBSTACK2" : [
+                     2,
+                     "do2df1|?1^`t?%;-?{Bb"
+                  ]
+               },
+               "next" : null,
+               "opcode" : "control_if_else",
+               "parent" : "B.S(F)(}{STY9(`(n):8",
                "shadow" : false,
                "topLevel" : false
             },
@@ -48268,8 +49587,22 @@
                "parent" : null,
                "shadow" : false,
                "topLevel" : true,
-               "x" : 213,
-               "y" : -444
+               "x" : 350,
+               "y" : -328
+            },
+            "X9/)yf.c$#}ZkD6keNP8" : {
+               "fields" : {},
+               "inputs" : {
+                  "CLONE_OPTION" : [
+                     1,
+                     "_*jv0s*+2C#kXSk3ZzJL"
+                  ]
+               },
+               "next" : null,
+               "opcode" : "control_create_clone_of",
+               "parent" : "]}ljD*kB`mJS3SkpJpuZ",
+               "shadow" : false,
+               "topLevel" : false
             },
             "Xeg4-Lg|%;;_)!%58C6J" : {
                "fields" : {},
@@ -48303,9 +49636,71 @@
                   ]
                },
                "inputs" : {},
-               "next" : "`.Rm/WGX6BuW17x71Gr(",
+               "next" : "9`d+Xz5VHDQE4?X!_L]f",
                "opcode" : "data_deletealloflist",
                "parent" : "!dHect8EISZ$!p8-dzIW",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            "YCO/?t8Y9wKoqwiz!AEa" : {
+               "fields" : {
+                  "LIST" : [
+                     "flammable tiles",
+                     "d^n0aC~TPeFWi*tNU4em"
+                  ]
+               },
+               "inputs" : {
+                  "ITEM" : [
+                     1,
+                     [
+                        10,
+                        "55"
+                     ]
+                  ]
+               },
+               "next" : "~dTo,l]Gw:KI[6w1[#$n",
+               "opcode" : "data_addtolist",
+               "parent" : "+^2!f=Or51zfX518^#.#",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            "YD[6-M#Y-$A@IpSFuk7;" : {
+               "fields" : {},
+               "inputs" : {
+                  "BROADCAST_INPUT" : [
+                     1,
+                     [
+                        11,
+                        "poscheck",
+                        "broadcastMsgId-poscheck"
+                     ]
+                  ]
+               },
+               "next" : "hQlX;9}6J=M{5xX77SJq",
+               "opcode" : "event_broadcastandwait",
+               "parent" : "f,zIFyjwB6it:=z/zWg?",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            "YDeM2^_3OM{Kf9T88`o~" : {
+               "fields" : {
+                  "VARIABLE" : [
+                     "type",
+                     "V@K0,@)j1jjOua;l72=!"
+                  ]
+               },
+               "inputs" : {
+                  "VALUE" : [
+                     1,
+                     [
+                        10,
+                        "0"
+                     ]
+                  ]
+               },
+               "next" : "*]~|yArs]@}sdtA5m!?*",
+               "opcode" : "data_setvariableto",
+               "parent" : "VYY%u-Lf`QZWtXLwUjno",
                "shadow" : false,
                "topLevel" : false
             },
@@ -48452,6 +49847,30 @@
                "shadow" : false,
                "topLevel" : false
             },
+            "[IQS(+f~DdxbmJQcd6,l" : {
+               "fields" : {},
+               "inputs" : {
+                  "FROM" : [
+                     1,
+                     [
+                        4,
+                        "1"
+                     ]
+                  ],
+                  "TO" : [
+                     1,
+                     [
+                        4,
+                        "100"
+                     ]
+                  ]
+               },
+               "next" : null,
+               "opcode" : "operator_random",
+               "parent" : "UvY=DEV,ujlz~5tD2Eb_",
+               "shadow" : false,
+               "topLevel" : false
+            },
             "[Vro-zt+*OFbMHB_bb=;" : {
                "fields" : {},
                "inputs" : {
@@ -48463,7 +49882,29 @@
                },
                "next" : ":+hcRI,~|?MT@+BOAOt(",
                "opcode" : "looks_switchcostumeto",
-               "parent" : "):4T_:lhH%[76b^`V{(!",
+               "parent" : ":qj$t6m0NQ?idR?@A$kn",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            "[f{p{rU_PsL$IytD5[{," : {
+               "fields" : {
+                  "LIST" : [
+                     "flammable tiles",
+                     "d^n0aC~TPeFWi*tNU4em"
+                  ]
+               },
+               "inputs" : {
+                  "ITEM" : [
+                     1,
+                     [
+                        10,
+                        "24"
+                     ]
+                  ]
+               },
+               "next" : "d^FW07Xs{t6u{.PC#sM3",
+               "opcode" : "data_addtolist",
+               "parent" : "C1vcAP{kRr1td=?5G+y?",
                "shadow" : false,
                "topLevel" : false
             },
@@ -48498,6 +49939,49 @@
                "shadow" : false,
                "topLevel" : false
             },
+            "[gyv5KUGiy38lXlJJ~%W" : {
+               "fields" : {
+                  "NUMBER_NAME" : [
+                     "number",
+                     null
+                  ]
+               },
+               "inputs" : {},
+               "next" : null,
+               "opcode" : "looks_costumenumbername",
+               "parent" : "G*$,[iQHjZI]?^{n2Azq",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            "]7|.i,Wa3u:k0Cl#JwM." : {
+               "fields" : {},
+               "inputs" : {
+                  "OPERAND1" : [
+                     3,
+                     [
+                        12,
+                        "type",
+                        "V@K0,@)j1jjOua;l72=!"
+                     ],
+                     [
+                        10,
+                        ""
+                     ]
+                  ],
+                  "OPERAND2" : [
+                     1,
+                     [
+                        10,
+                        "1"
+                     ]
+                  ]
+               },
+               "next" : null,
+               "opcode" : "operator_lt",
+               "parent" : ":qj$t6m0NQ?idR?@A$kn",
+               "shadow" : false,
+               "topLevel" : false
+            },
             "]twf.;vv0Y2X4r[)$vcX" : {
                "fields" : {},
                "inputs" : {
@@ -48517,6 +50001,33 @@
                "next" : null,
                "opcode" : "control_if_else",
                "parent" : "+7$HE]G1,0+|=v7=7xMa",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            "]}ljD*kB`mJS3SkpJpuZ" : {
+               "fields" : {
+                  "VARIABLE" : [
+                     "sendY",
+                     "?B,2pg@/#e`sJ!n!H59q-tileY-"
+                  ]
+               },
+               "inputs" : {
+                  "VALUE" : [
+                     3,
+                     [
+                        12,
+                        "pos check Y",
+                        "e+}LB8g!2(uL^m2nPI}4"
+                     ],
+                     [
+                        10,
+                        "0"
+                     ]
+                  ]
+               },
+               "next" : "X9/)yf.c$#}ZkD6keNP8",
+               "opcode" : "data_setvariableto",
+               "parent" : "3`;bCo/O~j?9Bj1t=thZ",
                "shadow" : false,
                "topLevel" : false
             },
@@ -48581,6 +50092,20 @@
                "shadow" : false,
                "topLevel" : false
             },
+            "_*jv0s*+2C#kXSk3ZzJL" : {
+               "fields" : {
+                  "CLONE_OPTION" : [
+                     "_myself_",
+                     null
+                  ]
+               },
+               "inputs" : {},
+               "next" : null,
+               "opcode" : "control_create_clone_of_menu",
+               "parent" : "X9/)yf.c$#}ZkD6keNP8",
+               "shadow" : true,
+               "topLevel" : false
+            },
             "_3@I7!f2$4A@p-)o~eKl" : {
                "fields" : {},
                "inputs" : {
@@ -48642,6 +50167,30 @@
                "shadow" : false,
                "topLevel" : false
             },
+            "_Ik7g/HWjUQ7s=`w`(m{" : {
+               "comment" : "@!8Z2w6]aY*IfE6)#s`,",
+               "fields" : {
+                  "LIST" : [
+                     "flammable tiles",
+                     "d^n0aC~TPeFWi*tNU4em"
+                  ]
+               },
+               "inputs" : {
+                  "ITEM" : [
+                     3,
+                     ")iCZr#wWcf+l}pnx.sM0",
+                     [
+                        10,
+                        "thing"
+                     ]
+                  ]
+               },
+               "next" : null,
+               "opcode" : "data_listcontainsitem",
+               "parent" : "#(nH%3]gFeqOU4Pb}ZEL",
+               "shadow" : false,
+               "topLevel" : false
+            },
             "_YqT_wH[1}-}{oL=!f#9" : {
                "fields" : {},
                "inputs" : {
@@ -48693,13 +50242,13 @@
                      1,
                      [
                         10,
-                        "0"
+                        "85"
                      ]
                   ]
                },
-               "next" : "9`d+Xz5VHDQE4?X!_L]f",
+               "next" : null,
                "opcode" : "data_addtolist",
-               "parent" : "Xy.=rM@iPww0/*qY?-9F",
+               "parent" : "9LQDhJ;I`l:@1,dp)[Rt",
                "shadow" : false,
                "topLevel" : false
             },
@@ -49042,6 +50591,52 @@
                "shadow" : true,
                "topLevel" : false
             },
+            "c6e8i)cGn:mJLh,qLc/B" : {
+               "fields" : {},
+               "inputs" : {
+                  "FROM" : [
+                     1,
+                     [
+                        4,
+                        "1"
+                     ]
+                  ],
+                  "TO" : [
+                     1,
+                     [
+                        4,
+                        "2"
+                     ]
+                  ]
+               },
+               "next" : null,
+               "opcode" : "operator_random",
+               "parent" : "kHYb7RYv4MFyJd-cU}R_",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            "cJXx-f.Lxq!lT$]v6mwa" : {
+               "fields" : {
+                  "VARIABLE" : [
+                     "posCheckInUse",
+                     "R*zkE4v;sECGzikbuXe%"
+                  ]
+               },
+               "inputs" : {
+                  "VALUE" : [
+                     1,
+                     [
+                        10,
+                        "1"
+                     ]
+                  ]
+               },
+               "next" : "8~?3bta2|UTj:F,Z:HLn",
+               "opcode" : "data_setvariableto",
+               "parent" : "q%t319wSkxVn=mq+VIA0",
+               "shadow" : false,
+               "topLevel" : false
+            },
             "ciw~=yd*+`NQ~@OnD1Y4" : {
                "fields" : {},
                "inputs" : {
@@ -49074,6 +50669,47 @@
                "shadow" : false,
                "topLevel" : false
             },
+            "d+F8XKA=R[w-=IFMkqS@" : {
+               "fields" : {
+                  "STOP_OPTION" : [
+                     "this script",
+                     null
+                  ]
+               },
+               "inputs" : {},
+               "mutation" : {
+                  "children" : [],
+                  "hasnext" : "false",
+                  "tagName" : "mutation"
+               },
+               "next" : null,
+               "opcode" : "control_stop",
+               "parent" : "@#u}w0yRQX$qi??Ipw^H",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            "d^FW07Xs{t6u{.PC#sM3" : {
+               "fields" : {
+                  "LIST" : [
+                     "flammable tiles",
+                     "d^n0aC~TPeFWi*tNU4em"
+                  ]
+               },
+               "inputs" : {
+                  "ITEM" : [
+                     1,
+                     [
+                        10,
+                        "28"
+                     ]
+                  ]
+               },
+               "next" : "OX,gHm-=krVStbLA+wo^",
+               "opcode" : "data_addtolist",
+               "parent" : "[f{p{rU_PsL$IytD5[{,",
+               "shadow" : false,
+               "topLevel" : false
+            },
             "dh`:|RgVGd?g$iSL_3,3" : {
                "fields" : {
                   "VARIABLE" : [
@@ -49093,6 +50729,28 @@
                "next" : "+g:h}uBSF+IMJd_!kkp^",
                "opcode" : "data_setvariableto",
                "parent" : "aB(|QVjkdxjUP!uuE0-=",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            "do2df1|?1^`t?%;-?{Bb" : {
+               "fields" : {},
+               "inputs" : {
+                  "CONDITION" : [
+                     2,
+                     "W%/MP?Xg)rYI_1!mPhi:"
+                  ],
+                  "SUBSTACK" : [
+                     2,
+                     "!,WStTLUyB|p=#P6AHb$"
+                  ],
+                  "SUBSTACK2" : [
+                     2,
+                     "L$B?BZLv6r16::85mX/x"
+                  ]
+               },
+               "next" : null,
+               "opcode" : "control_if_else",
+               "parent" : "WmZF+}_!+D61V:uS9pd,",
                "shadow" : false,
                "topLevel" : false
             },
@@ -49183,6 +50841,28 @@
                "shadow" : false,
                "topLevel" : false
             },
+            "f,zIFyjwB6it:=z/zWg?" : {
+               "fields" : {
+                  "VARIABLE" : [
+                     "returnValue",
+                     "?B,2pg@/#e`sJ!n!H59q-returnValue-"
+                  ]
+               },
+               "inputs" : {
+                  "VALUE" : [
+                     1,
+                     [
+                        10,
+                        "-1"
+                     ]
+                  ]
+               },
+               "next" : "YD[6-M#Y-$A@IpSFuk7;",
+               "opcode" : "data_setvariableto",
+               "parent" : "=Y/MkH8_d/y-}bpB%8}h",
+               "shadow" : false,
+               "topLevel" : false
+            },
             "f7tAPT4S{1*YY[l@=XJC" : {
                "fields" : {},
                "inputs" : {
@@ -49263,6 +50943,24 @@
                "shadow" : true,
                "topLevel" : false
             },
+            "fmLF},iqyeL8yfi+cBPy" : {
+               "fields" : {},
+               "inputs" : {
+                  "CONDITION" : [
+                     2,
+                     "#(nH%3]gFeqOU4Pb}ZEL"
+                  ],
+                  "SUBSTACK" : [
+                     2,
+                     "@#u}w0yRQX$qi??Ipw^H"
+                  ]
+               },
+               "next" : "pi9_,m}}ag*1c5C[M#}4",
+               "opcode" : "control_if",
+               "parent" : "hQlX;9}6J=M{5xX77SJq",
+               "shadow" : false,
+               "topLevel" : false
+            },
             "fo}34H;lx^OL^5;2MzhM" : {
                "fields" : {},
                "inputs" : {
@@ -49338,6 +51036,36 @@
                "shadow" : false,
                "topLevel" : false
             },
+            "gs+w9CE+);VgND@qrT,t" : {
+               "fields" : {},
+               "inputs" : {
+                  "NUM1" : [
+                     3,
+                     [
+                        12,
+                        "X",
+                        "(qNP|xmM;dT/CmZGc?8Y"
+                     ],
+                     [
+                        4,
+                        ""
+                     ]
+                  ],
+                  "NUM2" : [
+                     3,
+                     "CD0jm2}G=Pu_jL0jw6,5",
+                     [
+                        4,
+                        ""
+                     ]
+                  ]
+               },
+               "next" : null,
+               "opcode" : "operator_add",
+               "parent" : "8~?3bta2|UTj:F,Z:HLn",
+               "shadow" : false,
+               "topLevel" : false
+            },
             "hL7OUM5?^$8B1l$!B/!:" : {
                "fields" : {},
                "inputs" : {
@@ -49364,6 +51092,25 @@
                "next" : null,
                "opcode" : "operator_equals",
                "parent" : "8:Limv@^Z{o6=~?+j-]k",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            "hQlX;9}6J=M{5xX77SJq" : {
+               "comment" : "XhFG56%%Rfqf@(-8xHD(",
+               "fields" : {},
+               "inputs" : {
+                  "CONDITION" : [
+                     2,
+                     "}R@9/KjHhM_Zg%jw7$wY"
+                  ],
+                  "SUBSTACK" : [
+                     2,
+                     "onNVUm@VoKF0^YN0hXI)"
+                  ]
+               },
+               "next" : "fmLF},iqyeL8yfi+cBPy",
+               "opcode" : "control_if",
+               "parent" : "YD[6-M#Y-$A@IpSFuk7;",
                "shadow" : false,
                "topLevel" : false
             },
@@ -49586,6 +51333,31 @@
                "next" : null,
                "opcode" : "control_if_else",
                "parent" : "]twf.;vv0Y2X4r[)$vcX",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            "kHYb7RYv4MFyJd-cU}R_" : {
+               "fields" : {},
+               "inputs" : {
+                  "OPERAND1" : [
+                     3,
+                     "c6e8i)cGn:mJLh,qLc/B",
+                     [
+                        10,
+                        ""
+                     ]
+                  ],
+                  "OPERAND2" : [
+                     1,
+                     [
+                        10,
+                        "1"
+                     ]
+                  ]
+               },
+               "next" : null,
+               "opcode" : "operator_equals",
+               "parent" : "K+-)Z4|R(IF52UC#]8WC",
                "shadow" : false,
                "topLevel" : false
             },
@@ -49828,6 +51600,35 @@
                "shadow" : false,
                "topLevel" : false
             },
+            "nd$KU-zItrh$JfW2v4c4" : {
+               "fields" : {},
+               "inputs" : {
+                  "OPERAND1" : [
+                     3,
+                     [
+                        12,
+                        "returnValue",
+                        "?B,2pg@/#e`sJ!n!H59q-returnValue-"
+                     ],
+                     [
+                        10,
+                        ""
+                     ]
+                  ],
+                  "OPERAND2" : [
+                     1,
+                     [
+                        10,
+                        "-1"
+                     ]
+                  ]
+               },
+               "next" : null,
+               "opcode" : "operator_equals",
+               "parent" : "vo59@Zi@Lm;MJH=kmP7q",
+               "shadow" : false,
+               "topLevel" : false
+            },
             "oK(2K:Z{nv-XS4*PGAIz" : {
                "fields" : {},
                "inputs" : {
@@ -49905,6 +51706,52 @@
                "shadow" : false,
                "topLevel" : false
             },
+            "om4DjI{N]N=6#BPhb^h4" : {
+               "fields" : {},
+               "inputs" : {
+                  "FROM" : [
+                     1,
+                     [
+                        4,
+                        "1"
+                     ]
+                  ],
+                  "TO" : [
+                     1,
+                     [
+                        4,
+                        "2"
+                     ]
+                  ]
+               },
+               "next" : null,
+               "opcode" : "operator_random",
+               "parent" : "#OZ|4JiqRmUvt)_YZ~d8",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            "onNVUm@VoKF0^YN0hXI)" : {
+               "fields" : {
+                  "VARIABLE" : [
+                     "posCheckInUse",
+                     "R*zkE4v;sECGzikbuXe%"
+                  ]
+               },
+               "inputs" : {
+                  "VALUE" : [
+                     1,
+                     [
+                        10,
+                        "0"
+                     ]
+                  ]
+               },
+               "next" : "GCK-lk!bbT5-bHI;awGQ",
+               "opcode" : "data_setvariableto",
+               "parent" : "hQlX;9}6J=M{5xX77SJq",
+               "shadow" : false,
+               "topLevel" : false
+            },
             "p@n(;?so:#0D$%Q{YCsU" : {
                "fields" : {},
                "inputs" : {
@@ -49937,6 +51784,28 @@
                "shadow" : true,
                "topLevel" : false
             },
+            "pW{)!J8G,!9?pOevd(`q" : {
+               "fields" : {
+                  "LIST" : [
+                     "flammable tiles",
+                     "d^n0aC~TPeFWi*tNU4em"
+                  ]
+               },
+               "inputs" : {
+                  "ITEM" : [
+                     1,
+                     [
+                        10,
+                        "43"
+                     ]
+                  ]
+               },
+               "next" : "UeMH~u*JIc47dT-`;A4n",
+               "opcode" : "data_addtolist",
+               "parent" : "OX,gHm-=krVStbLA+wo^",
+               "shadow" : false,
+               "topLevel" : false
+            },
             "pgc+G~`wrr9j?#knFU7]" : {
                "fields" : {},
                "inputs" : {
@@ -49962,6 +51831,28 @@
                "shadow" : false,
                "topLevel" : false
             },
+            "pi9_,m}}ag*1c5C[M#}4" : {
+               "fields" : {
+                  "VARIABLE" : [
+                     "returnValue",
+                     "?B,2pg@/#e`sJ!n!H59q-returnValue-"
+                  ]
+               },
+               "inputs" : {
+                  "VALUE" : [
+                     1,
+                     [
+                        10,
+                        "-1"
+                     ]
+                  ]
+               },
+               "next" : "T+DwJ$5mSH9$r3B:ur[q",
+               "opcode" : "data_setvariableto",
+               "parent" : "fmLF},iqyeL8yfi+cBPy",
+               "shadow" : false,
+               "topLevel" : false
+            },
             "poC.*j]%IU1g`/}?p(#n" : {
                "fields" : {},
                "inputs" : {
@@ -49977,6 +51868,20 @@
                "topLevel" : true,
                "x" : 2396,
                "y" : -236
+            },
+            "q%t319wSkxVn=mq+VIA0" : {
+               "fields" : {},
+               "inputs" : {
+                  "CONDITION" : [
+                     2,
+                     ",Lg8=[!RR;V1pgb9V8Dv"
+                  ]
+               },
+               "next" : "cJXx-f.Lxq!lT$]v6mwa",
+               "opcode" : "control_wait_until",
+               "parent" : "OeJj%`GWXb@Cp7ZIvNeD",
+               "shadow" : false,
+               "topLevel" : false
             },
             "qKwH6MLCF/SPAxq0w3Z8" : {
                "fields" : {
@@ -50058,8 +51963,8 @@
                "parent" : null,
                "shadow" : false,
                "topLevel" : true,
-               "x" : 713,
-               "y" : -921
+               "x" : 811,
+               "y" : -412
             },
             "s5XNH!ED4T_=R*#(!I7H" : {
                "fields" : {
@@ -50109,6 +52014,28 @@
                "next" : null,
                "opcode" : "argument_reporter_string_number",
                "parent" : "kt:{1Jc7SMf-*S:xx~S@",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            "sx.K4-?DRvDukFJ5*|*M" : {
+               "fields" : {},
+               "inputs" : {
+                  "CONDITION" : [
+                     2,
+                     "G*$,[iQHjZI]?^{n2Azq"
+                  ],
+                  "SUBSTACK" : [
+                     2,
+                     "Am~r]af~3inFNv0VxK#."
+                  ],
+                  "SUBSTACK2" : [
+                     2,
+                     "5EXQK5LhfmVZLCOYv6^j"
+                  ]
+               },
+               "next" : "B.S(F)(}{STY9(`(n):8",
+               "opcode" : "control_if_else",
+               "parent" : "vi}`-bZ2ikGcA|6AGD+H",
                "shadow" : false,
                "topLevel" : false
             },
@@ -50226,7 +52153,6 @@
                "topLevel" : false
             },
             "vi}`-bZ2ikGcA|6AGD+H" : {
-               "comment" : "6pz_cH#2?.hrZ-H52mJ|",
                "fields" : {},
                "inputs" : {
                   "custom_block" : [
@@ -50234,13 +52160,48 @@
                      "|.5x0sEde^Q;S5{CqPPi"
                   ]
                },
-               "next" : "Am~r]af~3inFNv0VxK#.",
+               "next" : "sx.K4-?DRvDukFJ5*|*M",
                "opcode" : "procedures_definition",
                "parent" : null,
                "shadow" : false,
                "topLevel" : true,
-               "x" : 1640,
-               "y" : -302
+               "x" : 1325,
+               "y" : -1850
+            },
+            "vo59@Zi@Lm;MJH=kmP7q" : {
+               "comment" : "%pxSm=oK8vRL7~W{H5e3",
+               "fields" : {},
+               "inputs" : {
+                  "CONDITION" : [
+                     2,
+                     "nd$KU-zItrh$JfW2v4c4"
+                  ],
+                  "SUBSTACK" : [
+                     2,
+                     "3`;bCo/O~j?9Bj1t=thZ"
+                  ]
+               },
+               "next" : "#~nV%+qVkOV!LM1()]t/",
+               "opcode" : "control_if",
+               "parent" : "T+DwJ$5mSH9$r3B:ur[q",
+               "shadow" : false,
+               "topLevel" : false
+            },
+            "w(h-)i[Jx~+nxu3Y^,tX" : {
+               "fields" : {},
+               "inputs" : {
+                  "custom_block" : [
+                     1,
+                     "Mo.zYSvJNk;0:[:@1/Cc"
+                  ]
+               },
+               "next" : "8ApOo^5?_Eu[)vA1GIC1",
+               "opcode" : "procedures_definition",
+               "parent" : null,
+               "shadow" : false,
+               "topLevel" : true,
+               "x" : 329,
+               "y" : -1618
             },
             "wCwo=+0$-,P=2:xj/%x=" : {
                "fields" : {},
@@ -50288,7 +52249,7 @@
                   "tagName" : "mutation",
                   "warp" : "false"
                },
-               "next" : null,
+               "next" : "N#nv$aZy7#z1y0qE.a%J",
                "opcode" : "procedures_call",
                "parent" : "2)loD!mz9xdq;~gsQ[^O",
                "shadow" : false,
@@ -50615,7 +52576,7 @@
                      ]
                   ]
                },
-               "next" : "):4T_:lhH%[76b^`V{(!",
+               "next" : ":qj$t6m0NQ?idR?@A$kn",
                "opcode" : "data_setvariableto",
                "parent" : "46?grgSr!/c}GW-7xysj",
                "shadow" : false,
@@ -50725,6 +52686,35 @@
                "shadow" : false,
                "topLevel" : false
             },
+            "}R@9/KjHhM_Zg%jw7$wY" : {
+               "fields" : {},
+               "inputs" : {
+                  "OPERAND1" : [
+                     3,
+                     [
+                        12,
+                        "returnValue",
+                        "?B,2pg@/#e`sJ!n!H59q-returnValue-"
+                     ],
+                     [
+                        10,
+                        ""
+                     ]
+                  ],
+                  "OPERAND2" : [
+                     1,
+                     [
+                        10,
+                        "-1"
+                     ]
+                  ]
+               },
+               "next" : null,
+               "opcode" : "operator_equals",
+               "parent" : "hQlX;9}6J=M{5xX77SJq",
+               "shadow" : false,
+               "topLevel" : false
+            },
             "~Tw3[T8iWF)GjPXKwpvF" : {
                "fields" : {
                   "VARIABLE" : [
@@ -50777,6 +52767,28 @@
                "shadow" : false,
                "topLevel" : false
             },
+            "~dTo,l]Gw:KI[6w1[#$n" : {
+               "fields" : {
+                  "LIST" : [
+                     "flammable tiles",
+                     "d^n0aC~TPeFWi*tNU4em"
+                  ]
+               },
+               "inputs" : {
+                  "ITEM" : [
+                     1,
+                     [
+                        10,
+                        "56"
+                     ]
+                  ]
+               },
+               "next" : "(%*JNFlN!1Ra!db4k[q)",
+               "opcode" : "data_addtolist",
+               "parent" : "YCO/?t8Y9wKoqwiz!AEa",
+               "shadow" : false,
+               "topLevel" : false
+            },
             "~fTwny||odY5%-`=aCJg" : {
                "fields" : {},
                "inputs" : {
@@ -50819,14 +52831,32 @@
          },
          "broadcasts" : {},
          "comments" : {
-            "6pz_cH#2?.hrZ-H52mJ|" : {
-               "blockId" : "vi}`-bZ2ikGcA|6AGD+H",
-               "height" : 93.3333129882812,
+            "%pxSm=oK8vRL7~W{H5e3" : {
+               "blockId" : "vo59@Zi@Lm;MJH=kmP7q",
+               "height" : 168.888916015625,
                "minimized" : false,
-               "text" : "TODO: add fire spread AI",
-               "width" : 225.185180664062,
-               "x" : 1637.51851851852,
-               "y" : -106.740740740741
+               "text" : "Is it already on fire or being compressed by a sheep?",
+               "width" : 143.703674316406,
+               "x" : 1121.44444444444,
+               "y" : -926.62962962963
+            },
+            "@!8Z2w6]aY*IfE6)#s`," : {
+               "blockId" : "_Ik7g/HWjUQ7s=`w`(m{",
+               "height" : 115.555603027344,
+               "minimized" : false,
+               "text" : "Is it flammable?",
+               "width" : 216.296325683594,
+               "x" : 1022.28379065902,
+               "y" : -1211.74074074074
+            },
+            "XhFG56%%Rfqf@(-8xHD(" : {
+               "blockId" : "hQlX;9}6J=M{5xX77SJq",
+               "height" : 94.8148193359375,
+               "minimized" : false,
+               "text" : "Does the tile we want to light on fire exist?",
+               "width" : 182.222229003906,
+               "x" : 1029.64517070629,
+               "y" : -1325.22222222222
             },
             "bT7aVEUXDt30(]Y2m4`Q" : {
                "blockId" : "HDNJDfqr!HH7^q]H{#=U",
@@ -50930,7 +52960,7 @@
                "rotationCenterY" : 8
             }
          ],
-         "currentCostume" : 6,
+         "currentCostume" : 1,
          "direction" : -90,
          "draggable" : false,
          "isStage" : false,
@@ -50977,7 +53007,7 @@
             ],
             "V@K0,@)j1jjOua;l72=!" : [
                "type",
-               0
+               "0"
             ],
             "g`JtWj!z[UW[SYkO*Q8L" : [
                "currentValue",
@@ -51713,7 +53743,7 @@
          "direction" : 90,
          "draggable" : true,
          "isStage" : false,
-         "layerOrder" : 30,
+         "layerOrder" : 38,
          "lists" : {},
          "name" : "touch menu",
          "rotationStyle" : "all around",
@@ -51730,7 +53760,7 @@
             }
          ],
          "variables" : {},
-         "visible" : false,
+         "visible" : true,
          "volume" : 100,
          "x" : 213,
          "y" : -165
@@ -52770,7 +54800,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 23,
+         "layerOrder" : 37,
          "lists" : {},
          "name" : "delete mode",
          "rotationStyle" : "all around",
@@ -52794,8 +54824,8 @@
          },
          "visible" : false,
          "volume" : 100,
-         "x" : 214.109826589595,
-         "y" : -42.7812018489984
+         "x" : 213,
+         "y" : -45
       }
    ]
 }
