@@ -2,9 +2,11 @@
 
 \* Re-wrote most of the game's code to be more efficient and easier to add on to
 
-\+ Added Support for Mobile Devices (Enable it in the main menu by clicking the hand button)
+\+ Added Support for Mobile Devices (Enabled automatically, Disable from main menu)
 
-\* Re-worked save and import codes, now shorter and still compatible with older worlds
+\+ Added Touch Menu for opening the palette, saving worlds, ect.
+
+\* Re-worked save and import codes, old world codes can be converted here: PROJECT LINK
 
 \+ Added Leaves tile
 
