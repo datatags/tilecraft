@@ -26,6 +26,8 @@
 
 \* Other minor design changes
 
+\* Changed "Debug Mode" to "Secret Settings"
+
 \+ Added a new "Space" Theme
 
 Bugs Fixed:
@@ -35,6 +37,8 @@ Bugs Fixed:
 \*Fixed Themes not saving
 
 \*Fixed Palette opening when importing worlds
+
+\*Fixed huge-file size mainly do to music tracks
 
 # 1.10 - The Creepy Update
 
