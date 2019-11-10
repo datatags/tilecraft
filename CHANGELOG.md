@@ -1,3 +1,39 @@
+# 2.0 - The Ultimate Update
+
+\* Re-wrote most of the game's code to be more efficient and easier to add on to
+
+\+ Added Support for Mobile Devices (Enable it in the main menu by clicking the hand button)
+
+\* Re-worked save and import codes, now shorter and still compatible with older worlds
+
+\+ Added Leaves tile
+
+\+ Added Ice Tile
+
+\+ Added 13 differant colors of cloth
+
+\+ Added Entities (Moving objects to spice up your worlds)
+
+\+ Added Fire Entity
+
+\+ Added Pig Entity 
+
+\+ Added Sheep Entity
+
+\* Changed menu background designs
+
+\* Other minor design changes
+
+\+ Added a new "Space" Theme
+
+Bugs Fixed:
+
+\*Fixed issue where some sounds never played
+
+\*Fixed Themes not saving
+
+\*Fixed Palette opening when importing worlds
+
 # 1.10 - The Creepy Update
 
 \+ Added all the creepy tiles made by @TheRealScratchBot!
