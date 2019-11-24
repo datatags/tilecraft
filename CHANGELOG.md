@@ -30,11 +30,9 @@
 
 \+ Added a new "Space" Theme
 
-Bugs Fixed:
+\+ Added feature that saves theme to save code
 
 \*Fixed issue where some sounds never played
-
-\*Fixed Themes not saving
 
 \*Fixed Palette opening when importing worlds
 
