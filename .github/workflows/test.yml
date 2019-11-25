@@ -1,0 +1,14 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    steps:
+    - name: Run a multi-line script
+      run: |
+        echo Zipping...
+        zip tilecraft.zip project.json assets/*
+        mv tilecraft.zip tilecraft.sb3
