@@ -11,6 +11,6 @@ jobs:
     - name: Run a multi-line script
       run: |
         echo Zipping...
-        zip tilecraft.zip project.json assets/*
         pwd
+        zip tilecraft.zip project.json assets/*
         mv tilecraft.zip tilecraft.sb3
