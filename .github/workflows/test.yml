@@ -1,4 +1,4 @@
-name: CI
+name: Test Action
 
 on: [push]
 
@@ -12,4 +12,5 @@ jobs:
       run: |
         echo Zipping...
         zip tilecraft.zip project.json assets/*
+        pwd
         mv tilecraft.zip tilecraft.sb3
