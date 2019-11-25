@@ -1,4 +1,4 @@
-name: Test Action
+name: Compile Project
 
 on: [push]
 
@@ -8,9 +8,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
-    - name: Run a multi-line script
+    - name: Compress project
       run: |
         echo Zipping...
         pwd
-        zip tilecraft.zip project.json assets/*
+        zip tilecraft.zip tilecraft/project.json tilecraft/assets/*
         mv tilecraft.zip tilecraft.sb3
