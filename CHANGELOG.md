@@ -6,13 +6,13 @@
 
 \+ Added Touch Menu for opening the palette, saving worlds, ect.
 
-\* Re-worked save and import codes, old world codes can be converted here: PROJECT LINK
+\* Re-worked save and import codes, old world codes can be converted here: https://scratch.mit.edu/projects/336867861/
 
 \+ Added Leaves tile
 
 \+ Added Ice Tile
 
-\+ Added 13 differant colors of cloth
+\+ Added 13 different colors of cloth
 
 \+ Added Entities (Moving objects to spice up your worlds)
 
