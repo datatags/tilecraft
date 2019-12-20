@@ -3,7 +3,7 @@ A Scratch 3.0 sandbox game where you can make a world with the many tiles availa
 
 See the TileCraft studio at https://scratch.mit.edu/studios/3650425/
 
-The current stable version is TileCraft 1.10, the Creepy Update.  It adds the creepy tiles made by TheRealScratchBot and other small tweaks.  The current version in the master branch is TileCraft 2.0, currently still in development.
+The current stable version is TileCraft 2.0, the Ultimate Update.  It adds many new tiles, support for touch screen devices, better saving and importing, and more efficient code to make things easier to add on to later. 
 See CHANGELOG for more details.
 
 # Compiling
