@@ -98,7 +98,7 @@
       },
       {
          "height" : 0,
-         "id" : "|{V+hz|4yAmijWWxFsbU_size",
+         "id" : "|?!bo8Qxd^q,XM3xozQF_size",
          "isDiscrete" : true,
          "mode" : "default",
          "opcode" : "looks_size",
@@ -132,7 +132,7 @@
       },
       {
          "height" : 0,
-         "id" : "Q))xJeS}k`+8IfTUq83k_costumenumbername_number",
+         "id" : "omZpQgBZ3Ix26KqvL1~U_costumenumbername_number",
          "isDiscrete" : true,
          "mode" : "default",
          "opcode" : "looks_costumenumbername",
@@ -312,7 +312,7 @@
       },
       {
          "height" : 0,
-         "id" : "Q))xJeS}k`+8IfTUq83k_size",
+         "id" : "omZpQgBZ3Ix26KqvL1~U_size",
          "isDiscrete" : true,
          "mode" : "default",
          "opcode" : "looks_size",
@@ -328,7 +328,7 @@
       },
       {
          "height" : 0,
-         "id" : "Q))xJeS}k`+8IfTUq83k_xposition",
+         "id" : "omZpQgBZ3Ix26KqvL1~U_xposition",
          "isDiscrete" : true,
          "mode" : "default",
          "opcode" : "motion_xposition",
@@ -344,7 +344,7 @@
       },
       {
          "height" : 0,
-         "id" : "Q))xJeS}k`+8IfTUq83k_yposition",
+         "id" : "omZpQgBZ3Ix26KqvL1~U_yposition",
          "isDiscrete" : true,
          "mode" : "default",
          "opcode" : "motion_yposition",
@@ -486,7 +486,7 @@
       },
       {
          "height" : 0,
-         "id" : "Q))xJeS}k`+8IfTUq83k_volume",
+         "id" : "omZpQgBZ3Ix26KqvL1~U_volume",
          "isDiscrete" : true,
          "mode" : "default",
          "opcode" : "sound_volume",
@@ -1821,15 +1821,7 @@
             ],
             "?B,2pg@/#e`sJ!n!H59q-Sample Worlds-list" : [
                "Sample Worlds",
-               [
-                  "Copy a code with Ctrl+C and import to view these worlds!",
-                  "v21020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202030302020202020202020202020303030303030303020202020202030301010101010103030202020203030100000005000001030303020303010500000005000000010101030301000500000a0a0a00000500000101000a0a0a00000a000000000000",
-                  "v11292.392.492.592.692.792.892.992.a92.282.272.262.252.242.232.332.432.532.632.732.832.932.a32.a82.a72.a62.a52.a42.389.479.369.349.459.549.569.589.679.659.749.769.789.879.859.949.969.989.977.957.757.847.867.667.557.647.357.447.467.377.487.577.687.777.887.v1",
-                  "v21010101010101010101010101010101010101010101010101010101010101000001010101010101010101010101000000000001010101010101010100000000000000060605050606000000000000000000060605050606000000000000000000060606060606000000000000000000060606060606000000000000000007070707070707070000000000000000070707070707000000000000000000000707070700000000",
-                  "v2101010102020202020202020202010100000001010101010101010101000500000005000000000500000000000500000005000000000500000000000500000a0a0a000000050000000a0a0a00000a0a0a000a0a0a0a0a00000a0a0000000a00000a0a0a0a0a00000a0a000000000000000a0a0a000000000a000000000000000a0a0a000000000000000000000000000a00000000000000000000000000000a000000000000",
-                  "v11589.579.569.676.876.669.769.779.789.689.889.979.989.969.869.559.959.652.752.852.549.649.749.849.949.737.637.837.727.627.827.617.717.817.807.607.537.437.937.b37.a37.337.",
-                  "v210c0c0c0c0c3a3a3a3a3a3a3a3a3a3a0c0c0c0c0c3b3b3b3b3b3b3b3b3b3b000000000039393939393939393939001b1b1b0043003e3d3e00430000431b1b1b1b0000003e3d3e0000000000001b1b1b00260d3e3e3e0d26000000001b1b3a1b00260d0d0d2600000000001b1b1b1b0000260d260000000000001b3a1b3a1b000026000000000000001b1b1b1b1b00000000000000000000001b1b1b00000000000000000000"
-               ]
+               []
             ],
             "?B,2pg@/#e`sJ!n!H59q-save data-list" : [
                "save data X",
@@ -4737,7 +4729,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 30,
+         "layerOrder" : 31,
          "lists" : {},
          "name" : "PurpleSoftwareLogoNEW",
          "rotationStyle" : "all around",
@@ -12359,7 +12351,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 37,
+         "layerOrder" : 38,
          "lists" : {},
          "name" : "load",
          "rotationStyle" : "all around",
@@ -13135,7 +13127,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 31,
+         "layerOrder" : 32,
          "lists" : {},
          "name" : "create world",
          "rotationStyle" : "all around",
@@ -14934,7 +14926,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 33,
+         "layerOrder" : 34,
          "lists" : {},
          "name" : "sample",
          "rotationStyle" : "all around",
@@ -15910,7 +15902,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 32,
+         "layerOrder" : 33,
          "lists" : {},
          "name" : "secret_settings",
          "rotationStyle" : "all around",
@@ -33743,121 +33735,121 @@
          },
          "costumes" : [
             {
-               "assetId" : "0d14d60b07a6db990f13bc3b1eca4500",
+               "assetId" : "d23b78abf45d21a70dbfd94b71b2c80d",
                "bitmapResolution" : 2,
                "dataFormat" : "png",
-               "md5ext" : "0d14d60b07a6db990f13bc3b1eca4500.png",
+               "md5ext" : "d23b78abf45d21a70dbfd94b71b2c80d.png",
                "name" : "grass",
-               "rotationCenterX" : 16,
-               "rotationCenterY" : 14
+               "rotationCenterX" : 15,
+               "rotationCenterY" : 15
             },
             {
-               "assetId" : "e0a973da12ed87601e984356a0cac097",
+               "assetId" : "fd0c65f02a5e54f497b425b92e8185e6",
                "bitmapResolution" : 2,
                "dataFormat" : "png",
-               "md5ext" : "e0a973da12ed87601e984356a0cac097.png",
+               "md5ext" : "fd0c65f02a5e54f497b425b92e8185e6.png",
                "name" : "stone",
-               "rotationCenterX" : 16,
-               "rotationCenterY" : 14
+               "rotationCenterX" : 15,
+               "rotationCenterY" : 15
             },
             {
-               "assetId" : "8f291b9769c74d8f4e136a18a67ea2c9",
+               "assetId" : "397fa96500363f17f14894fb72106f5a",
                "bitmapResolution" : 2,
                "dataFormat" : "png",
-               "md5ext" : "8f291b9769c74d8f4e136a18a67ea2c9.png",
+               "md5ext" : "397fa96500363f17f14894fb72106f5a.png",
                "name" : "soil",
-               "rotationCenterX" : 16,
-               "rotationCenterY" : 14
+               "rotationCenterX" : 15,
+               "rotationCenterY" : 15
             },
             {
-               "assetId" : "852c1aa5a48c909321da1596ccdcbc6c",
+               "assetId" : "27a4471ea673c27093e9f636b0f7e38a",
                "bitmapResolution" : 2,
                "dataFormat" : "png",
-               "md5ext" : "852c1aa5a48c909321da1596ccdcbc6c.png",
+               "md5ext" : "27a4471ea673c27093e9f636b0f7e38a.png",
                "name" : "sand",
-               "rotationCenterX" : 16,
-               "rotationCenterY" : 14
+               "rotationCenterX" : 15,
+               "rotationCenterY" : 15
             },
             {
-               "assetId" : "983d84c8bd7fb849bf9d75a7e6f50395",
+               "assetId" : "819bfed327e546c0d7c3ad167dcaa1af",
                "bitmapResolution" : 2,
                "dataFormat" : "png",
-               "md5ext" : "983d84c8bd7fb849bf9d75a7e6f50395.png",
+               "md5ext" : "819bfed327e546c0d7c3ad167dcaa1af.png",
                "name" : "wood",
-               "rotationCenterX" : 16,
-               "rotationCenterY" : 14
+               "rotationCenterX" : 15,
+               "rotationCenterY" : 15
             },
             {
-               "assetId" : "41a9a2b058e25390d87cafa2b0a095c3",
+               "assetId" : "22538581947fdd6fbec9afb63d38c7a4",
                "bitmapResolution" : 2,
                "dataFormat" : "png",
-               "md5ext" : "41a9a2b058e25390d87cafa2b0a095c3.png",
+               "md5ext" : "22538581947fdd6fbec9afb63d38c7a4.png",
                "name" : "bricks",
-               "rotationCenterX" : 16,
-               "rotationCenterY" : 14
+               "rotationCenterX" : 15,
+               "rotationCenterY" : 15
             },
             {
-               "assetId" : "afae5f62cf633a6a6b499a7666b30ea8",
+               "assetId" : "e07301370d1c4c8408909014bc73f9e6",
                "bitmapResolution" : 2,
                "dataFormat" : "png",
-               "md5ext" : "afae5f62cf633a6a6b499a7666b30ea8.png",
+               "md5ext" : "e07301370d1c4c8408909014bc73f9e6.png",
                "name" : "stone_bricks",
-               "rotationCenterX" : 16,
-               "rotationCenterY" : 14
+               "rotationCenterX" : 15,
+               "rotationCenterY" : 15
             },
             {
-               "assetId" : "53357827616a14d2fa788e60bd832d8e",
+               "assetId" : "37ef7360d843f944978fc76234a016bf",
                "bitmapResolution" : 2,
                "dataFormat" : "png",
-               "md5ext" : "53357827616a14d2fa788e60bd832d8e.png",
+               "md5ext" : "37ef7360d843f944978fc76234a016bf.png",
                "name" : "cloth",
-               "rotationCenterX" : 16,
-               "rotationCenterY" : 14
+               "rotationCenterX" : 15,
+               "rotationCenterY" : 15
             },
             {
-               "assetId" : "e654cf873f376bb56ab4a98f153850a1",
+               "assetId" : "b6c4057505b383a5b252f38e458aabec",
                "bitmapResolution" : 2,
                "dataFormat" : "png",
-               "md5ext" : "e654cf873f376bb56ab4a98f153850a1.png",
+               "md5ext" : "b6c4057505b383a5b252f38e458aabec.png",
                "name" : "metal",
-               "rotationCenterX" : 16,
-               "rotationCenterY" : 14
+               "rotationCenterX" : 15,
+               "rotationCenterY" : 15
             },
             {
-               "assetId" : "502d9a85dd10ec65640d5266a063c982",
+               "assetId" : "92a6e26bd3a95a8321b214064141da29",
                "bitmapResolution" : 2,
                "dataFormat" : "png",
-               "md5ext" : "502d9a85dd10ec65640d5266a063c982.png",
+               "md5ext" : "92a6e26bd3a95a8321b214064141da29.png",
                "name" : "themed_block",
-               "rotationCenterX" : 16,
-               "rotationCenterY" : 14
+               "rotationCenterX" : 15,
+               "rotationCenterY" : 15
             },
             {
-               "assetId" : "e46d94ad4f44570a86cd905cbf8b5433",
+               "assetId" : "b79b26afe9316faa16abc93b4f2e9d7e",
                "bitmapResolution" : 2,
                "dataFormat" : "png",
-               "md5ext" : "e46d94ad4f44570a86cd905cbf8b5433.png",
+               "md5ext" : "b79b26afe9316faa16abc93b4f2e9d7e.png",
                "name" : "water",
-               "rotationCenterX" : 16,
-               "rotationCenterY" : 14
+               "rotationCenterX" : 15,
+               "rotationCenterY" : 15
             },
             {
-               "assetId" : "0a8218f2b1a0166215026572a0a1ca32",
+               "assetId" : "63ae7751dc6b88c7e7702da7576b7fe1",
                "bitmapResolution" : 2,
                "dataFormat" : "png",
-               "md5ext" : "0a8218f2b1a0166215026572a0a1ca32.png",
+               "md5ext" : "63ae7751dc6b88c7e7702da7576b7fe1.png",
                "name" : "lava",
-               "rotationCenterX" : 16,
-               "rotationCenterY" : 14
+               "rotationCenterX" : 15,
+               "rotationCenterY" : 15
             },
             {
-               "assetId" : "0cdcaa8cc1da47e5c1e5c15ca02e98f4",
+               "assetId" : "32ba50a80adfb56852b4a9ddb4794ec6",
                "bitmapResolution" : 2,
                "dataFormat" : "png",
-               "md5ext" : "0cdcaa8cc1da47e5c1e5c15ca02e98f4.png",
+               "md5ext" : "32ba50a80adfb56852b4a9ddb4794ec6.png",
                "name" : "dark_bricks",
-               "rotationCenterX" : 16,
-               "rotationCenterY" : 14
+               "rotationCenterX" : 15,
+               "rotationCenterY" : 15
             },
             {
                "assetId" : "f15644f60ba3bda3ed28afbeead4716f",
@@ -34013,12 +34005,12 @@
                "rotationCenterY" : 15
             },
             {
-               "assetId" : "183333768d1924a9b19f753a971dd898",
+               "assetId" : "0cc841ce838fd3eb6ddeea9796e07445",
                "bitmapResolution" : 1,
                "dataFormat" : "svg",
-               "md5ext" : "183333768d1924a9b19f753a971dd898.svg",
+               "md5ext" : "0cc841ce838fd3eb6ddeea9796e07445.svg",
                "name" : "medieval_cloth",
-               "rotationCenterX" : 7.125,
+               "rotationCenterX" : 7.5,
                "rotationCenterY" : 7.5
             },
             {
@@ -34234,8 +34226,8 @@
                "dataFormat" : "png",
                "md5ext" : "09e09df7f9d851301217a6ee498afa7f.png",
                "name" : "swamp_grass",
-               "rotationCenterX" : 16,
-               "rotationCenterY" : 14
+               "rotationCenterX" : 15,
+               "rotationCenterY" : 15
             },
             {
                "assetId" : "327ac1ef49554f7f431c21c10570baec",
@@ -34243,98 +34235,98 @@
                "dataFormat" : "png",
                "md5ext" : "327ac1ef49554f7f431c21c10570baec.png",
                "name" : "flower_grass",
-               "rotationCenterX" : 16,
-               "rotationCenterY" : 14
+               "rotationCenterX" : 15,
+               "rotationCenterY" : 15
             },
             {
-               "assetId" : "454a8e72f508d518d12d0db172a7fbbf",
+               "assetId" : "590fb1843831d0b54f98df0c23c7581e",
                "bitmapResolution" : 2,
                "dataFormat" : "png",
-               "md5ext" : "454a8e72f508d518d12d0db172a7fbbf.png",
+               "md5ext" : "590fb1843831d0b54f98df0c23c7581e.png",
                "name" : "creepy_grass",
-               "rotationCenterX" : 16,
-               "rotationCenterY" : 14
+               "rotationCenterX" : 15,
+               "rotationCenterY" : 15
             },
             {
-               "assetId" : "f8d8db559a697946715fc4e1a5df5481",
+               "assetId" : "76b728b9dfa7b4e311a9bf5ce032963b",
                "bitmapResolution" : 2,
                "dataFormat" : "png",
-               "md5ext" : "f8d8db559a697946715fc4e1a5df5481.png",
+               "md5ext" : "76b728b9dfa7b4e311a9bf5ce032963b.png",
                "name" : "creepy_stone",
-               "rotationCenterX" : 16,
-               "rotationCenterY" : 14
+               "rotationCenterX" : 15,
+               "rotationCenterY" : 15
             },
             {
-               "assetId" : "3c15650b997e4b530d7ee0edc0fc4cf1",
+               "assetId" : "fb6d17e267b7b96da5cfb14da016feff",
                "bitmapResolution" : 2,
                "dataFormat" : "png",
-               "md5ext" : "3c15650b997e4b530d7ee0edc0fc4cf1.png",
+               "md5ext" : "fb6d17e267b7b96da5cfb14da016feff.png",
                "name" : "creepy_soil",
-               "rotationCenterX" : 16,
-               "rotationCenterY" : 14
+               "rotationCenterX" : 15,
+               "rotationCenterY" : 15
             },
             {
-               "assetId" : "e05ac6453ad9e642ba823f2f2831c872",
+               "assetId" : "b559f88a3105ab9fe8ffba0b2a18f9ab",
                "bitmapResolution" : 2,
                "dataFormat" : "png",
-               "md5ext" : "e05ac6453ad9e642ba823f2f2831c872.png",
+               "md5ext" : "b559f88a3105ab9fe8ffba0b2a18f9ab.png",
                "name" : "creepy_sand",
-               "rotationCenterX" : 16,
-               "rotationCenterY" : 14
+               "rotationCenterX" : 15,
+               "rotationCenterY" : 15
             },
             {
-               "assetId" : "fadbd7abe6fa57d5dc8d5244c566d796",
+               "assetId" : "46ca67f08ed1f0248c012c824675b374",
                "bitmapResolution" : 2,
                "dataFormat" : "png",
-               "md5ext" : "fadbd7abe6fa57d5dc8d5244c566d796.png",
+               "md5ext" : "46ca67f08ed1f0248c012c824675b374.png",
                "name" : "creepy_wood",
-               "rotationCenterX" : 16,
-               "rotationCenterY" : 14
+               "rotationCenterX" : 15,
+               "rotationCenterY" : 15
             },
             {
-               "assetId" : "384c4facfc63b0ad8d37f2fdd4569d50",
+               "assetId" : "0c815226492149a3d492a10275815ca7",
                "bitmapResolution" : 2,
                "dataFormat" : "png",
-               "md5ext" : "384c4facfc63b0ad8d37f2fdd4569d50.png",
+               "md5ext" : "0c815226492149a3d492a10275815ca7.png",
                "name" : "creepy_bricks",
-               "rotationCenterX" : 16,
-               "rotationCenterY" : 14
+               "rotationCenterX" : 15,
+               "rotationCenterY" : 15
             },
             {
-               "assetId" : "9d0ad4320e935afe3af9c2954f9213a5",
+               "assetId" : "7669f5d982c2d864944b0e7af077487c",
                "bitmapResolution" : 2,
                "dataFormat" : "png",
-               "md5ext" : "9d0ad4320e935afe3af9c2954f9213a5.png",
+               "md5ext" : "7669f5d982c2d864944b0e7af077487c.png",
                "name" : "creepy_stone_bricks",
-               "rotationCenterX" : 16,
-               "rotationCenterY" : 14
+               "rotationCenterX" : 15,
+               "rotationCenterY" : 15
             },
             {
-               "assetId" : "7ac0056f5e16263b044e3c48ee57b289",
+               "assetId" : "7e62ddbaa96b4b4ba879cb8a89bb226b",
                "bitmapResolution" : 2,
                "dataFormat" : "png",
-               "md5ext" : "7ac0056f5e16263b044e3c48ee57b289.png",
+               "md5ext" : "7e62ddbaa96b4b4ba879cb8a89bb226b.png",
                "name" : "creepy_cloth",
-               "rotationCenterX" : 16,
-               "rotationCenterY" : 14
+               "rotationCenterX" : 15,
+               "rotationCenterY" : 15
             },
             {
-               "assetId" : "b5ae90e9996fb964e88b7892aa91c3cd",
+               "assetId" : "3549fac6359c3ab5a8e5ac7780fd3be4",
                "bitmapResolution" : 2,
                "dataFormat" : "png",
-               "md5ext" : "b5ae90e9996fb964e88b7892aa91c3cd.png",
+               "md5ext" : "3549fac6359c3ab5a8e5ac7780fd3be4.png",
                "name" : "creepy_metal",
-               "rotationCenterX" : 16,
-               "rotationCenterY" : 14
+               "rotationCenterX" : 15,
+               "rotationCenterY" : 15
             },
             {
-               "assetId" : "450c4595d1b61206fc82fc569ad6e63a",
+               "assetId" : "0b1b554bd7b2955a20c4338d67b7fcf0",
                "bitmapResolution" : 2,
                "dataFormat" : "png",
-               "md5ext" : "450c4595d1b61206fc82fc569ad6e63a.png",
+               "md5ext" : "0b1b554bd7b2955a20c4338d67b7fcf0.png",
                "name" : "creepy_themed_block",
-               "rotationCenterX" : 16,
-               "rotationCenterY" : 14
+               "rotationCenterX" : 15,
+               "rotationCenterY" : 15
             },
             {
                "assetId" : "40ae5d57835c6c641b4fb8225c109157",
@@ -34342,8 +34334,8 @@
                "dataFormat" : "png",
                "md5ext" : "40ae5d57835c6c641b4fb8225c109157.png",
                "name" : "jack_o_lantern",
-               "rotationCenterX" : 16,
-               "rotationCenterY" : 14
+               "rotationCenterX" : 15,
+               "rotationCenterY" : 15
             },
             {
                "assetId" : "27e43ea780872c2206af4fec03246f39",
@@ -34508,7 +34500,7 @@
                "rotationCenterY" : 15
             }
          ],
-         "currentCostume" : 82,
+         "currentCostume" : 0,
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
@@ -35534,7 +35526,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 36,
+         "layerOrder" : 37,
          "lists" : {},
          "name" : "interface_texture",
          "rotationStyle" : "all around",
@@ -37918,6 +37910,17 @@
                "shadow" : false,
                "topLevel" : false
             },
+            "_n_u*Q*YWh1(?~3*JC]Q" : {
+               "fields" : {},
+               "inputs" : {},
+               "next" : "{R=ENbQ+V~l|(UgB@z%1",
+               "opcode" : "event_whenflagclicked",
+               "parent" : null,
+               "shadow" : false,
+               "topLevel" : true,
+               "x" : 154,
+               "y" : 351
+            },
             "cBMajq;Chd4[2Ha.q(Z]" : {
                "fields" : {},
                "inputs" : {},
@@ -38075,6 +38078,15 @@
                "topLevel" : true,
                "x" : 453,
                "y" : 7
+            },
+            "{R=ENbQ+V~l|(UgB@z%1" : {
+               "fields" : {},
+               "inputs" : {},
+               "next" : null,
+               "opcode" : "looks_hide",
+               "parent" : "_n_u*Q*YWh1(?~3*JC]Q",
+               "shadow" : false,
+               "topLevel" : false
             }
          },
          "broadcasts" : {},
@@ -38094,7 +38106,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 38,
+         "layerOrder" : 30,
          "lists" : {},
          "name" : "PopUp Help",
          "rotationStyle" : "all around",
@@ -38111,7 +38123,7 @@
             }
          ],
          "variables" : {},
-         "visible" : true,
+         "visible" : false,
          "volume" : 100,
          "x" : 162,
          "y" : 161
@@ -38458,7 +38470,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 34,
+         "layerOrder" : 35,
          "lists" : {},
          "name" : "TilecraftStudio",
          "rotationStyle" : "all around",
@@ -39145,7 +39157,7 @@
          "direction" : 90,
          "draggable" : false,
          "isStage" : false,
-         "layerOrder" : 35,
+         "layerOrder" : 36,
          "lists" : {},
          "name" : "touch_mode",
          "rotationStyle" : "all around",
