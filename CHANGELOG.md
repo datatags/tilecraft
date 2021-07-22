@@ -1,3 +1,13 @@
+# 2.0.1
+
+\+ Space Theme now has a custom hotbar
+
+\* Fixed the TileCraft Studio Button
+
+\* Fixed issue where some tiles aren't centered properly
+
+\* Pop-Ups now hide when game initially starts
+
 # 2.0 - The Ultimate Update
 
 \* Re-wrote most of the game's code to be more efficient and easier to add on to
@@ -32,11 +42,11 @@
 
 \+ Added feature that saves theme to save code
 
-\*Fixed issue where some sounds never played
+\* Fixed issue where some sounds never played
 
-\*Fixed Palette opening when importing worlds
+\* Fixed Palette opening when importing worlds
 
-\*Fixed huge-file size mainly do to music tracks
+\* Fixed huge-file size mainly do to music tracks
 
 # 1.10 - The Creepy Update
 
